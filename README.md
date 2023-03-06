@@ -1,4 +1,4 @@
-# Production Guide for Solo Game Development
+# Production Guide For Solo Game Development
 
 This guide collects ideas, tools and resources for solo game development.
 
