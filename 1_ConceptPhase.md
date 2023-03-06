@@ -49,7 +49,7 @@ A game concept should be less than one page in length. It should contain an *Ove
 
 If you need help, you might want to try turning your game idea into a concept by iterating on some creative and concise prompts to ask [ChatGPT](https://chat.openai.com/chat):
 
-![Image](Images/sc_ChatGPT.png)
+![Image](Images/sc_ChatGPT_1.png)
 
 > If you have trouble turning a vague game idea into a concrete concept, you should consider that as a warning sign - not because the idea is worthless, but because you should not move any further into the development process before figuring out a concept. Seriously. Take your time, let the idea grow in the back of your mind while you're working on something else. Instead of breaking your head about this one idea, consider going back to the [previous step](#collecting-game-ideas).
 
