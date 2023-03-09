@@ -10,8 +10,9 @@ During Pre-Production, you are going to hash out the most important design decis
 > 1. [Setting Up A Backlog](#backlog)
 > 2. [Creating A Game Design Document](#game-design-document)
 >    - 2.1 [Structure](#structure)
->    - 2.2 [Modular Approach](#modular-approach)
->    - 2.3 [Iteration](#iteration)
+>    - 2.2 [Elements](#elements)
+>    - 2.3 [Modular Approach](#modular-approach)
+>    - 2.4 [Iteration](#iteration)
 
 <a name="backlog"></a>
 ## 1. Setting Up A Backlog
