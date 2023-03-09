@@ -23,9 +23,7 @@ Because you are about to create important design documents, it makes sense to se
 
 There are different project management applications that can be used for this, but my personal pick is [ClickUp](https://www.clickup.com/):
 
-![Image](Images/sc_ClickUp.png)[^1]
-
-[^1]: source: https://clickup.com/features
+![Image](Images/sc_ClickUp.png)
 
 It is extremely feature-rich and customizable (even the free version). This might make it a bit too much for your first project though, so feel free to use alternatives for your own backlog (i've heard about [Nuclino](https://nuclino.com/), [Milanote](https://milanote.com/) and others).
 
