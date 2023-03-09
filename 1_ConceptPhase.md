@@ -25,7 +25,7 @@ If you are planning on using this guide for your own game project, you probably 
 
 ![Image](Images/sc_Kinopio.png)
 
-It serves as a virtual whiteboard and can help you organize and connect ideas visually. I mostly use it temporarily for mind-mapping and instead collect the most promising game ideas as notes in my [OneNote]() notebook (which i use for other stuff, too). This makes it easier to quiklcy write down ideas on my mobile phone.
+It serves as a virtual whiteboard and can help you organize and connect ideas visually. I mostly use it temporarily for mind-mapping and instead collect the most promising game ideas as notes in my [OneNote](https://www.onenote.com/?public=1) notebook (which i use for other stuff, too). This makes it easier to quickly write down ideas on my mobile phone.
 
 <a name="inspiration"></a>
 ### 1.2 Inspiration
@@ -45,7 +45,16 @@ Personally, i often can't stop my brain from constantly producing new game ideas
 
 It is time to create a specific game concept. This means you will need to choose a single game idea that you want to work out more thoroughly. Although the game concept will still only be a very short summary, with it you are laying the foundation for everything that follows (_spoilers_, what follows is a lot of work) and i have seen indie developers create stunning art and impressive tech demos for projects that they ultimately had to cancel, because they didn't have a solid game concept.
 
-A game concept should be less than one page in length. It should contain an *Overview* of the game's idea, a short list of the most important and unique *Gameplay Mechanics*, a brief description of the game's *Story* or *Narrative* (alternatively *Progression* for non-narrative games), a definition of the *Target Audience*, as well as the targetted *Platforms*. Every one of these elements is extremely important when presenting your idea to someone. No matter how experimental and artsy your game is, your game concept should cover all of these elements. However, the exact format varies and should be adjusted to what best suits your particular game idea.
+A game concept should be less than one page in length. It should contain the following elements:
+- *Game Overview*: A short, engaging summary of the game, written like an elevator pitch.
+- *Genre*: The game's genre, like `Action` and `Arcade`.
+- *Visuals And Viewpoint*: An overview of how the game will look, like `2D` and `Top-Down`
+- *Story*/*Narrative* (if applicable): A brief description of the game's narrative, mentioning setting and core themes.
+- *Gameplay Mechanics*: A list of the game's most important and unique gameplay mechanics. This does not need to be comprehensive, but should provide an idea of how the game will be played.
+- *Target Audience*: A description of target audience, like `Casual gamers of all ages`.
+- *Platforms*: The platform(s) that the game will be built for.
+
+Every one of these elements is extremely important when presenting your idea to someone. No matter how experimental and artsy your game is, your game concept should cover all of these elements. However, the exact format varies and should be adjusted to what best suits your particular game.
 
 If you need help, you might want to try turning your game idea into a concept by iterating on some creative and concise prompts to ask [ChatGPT](https://chat.openai.com/chat):
 
@@ -60,7 +69,7 @@ To return to the `SLINGSHOT` game idea, you can find the actual game concept [he
 
 Now that you have a game concept, there is one last evaluation to go through before moving into Pre-Production. Especially for solo game development, it can be an extremely important step, as it might be the last chance to find some critical shortcomings of your concept before wasting a ton of time on it.
 
-In order to evaluate the concept, answer all of the following questions: [^1]
+In order to evaluate the concept, answer all of the following questions (note that some of these questions include considerations for GHOSTS & GLITTER video content): [^1]
 
 [^1]: These questions are derived from Warren Spector's GDC talk ["Classic Game Postmortem: Deus Ex"](https://youtu.be/tffX3VljTtI).
 
@@ -69,10 +78,10 @@ In order to evaluate the concept, answer all of the following questions: [^1]
 3. What is the *player fantasy*? Think about the experience that the player will have while playing the game. What fantasy or role-playing experience will they be able to live out?
 4. Why do you want to make *this game specifically*? Identify what you hope to achieve with this game. Are you aiming for commercial success? Do you want to make a statement about a particular topic? Understanding your goals will help guide the development process.
 5. *What are you trying to say* with this game idea? Think about the message or themes that you want to convey through the game. This could be anything from exploring mental health to promoting environmentalism. Understanding the message you want to convey will help you make design decisions that support that message.
-6. How can this game be used to *showcase aspects of game development*? Consider how the game can be used to showcase particular aspects of game development in form of engaging video content. Is there a specific topic you could make an educational video about for other game devs while using this game idea as a practical example? Or what kind of video could reach a wider audience and introduce artists and art-interested people to the development process of games?
-7. How can this game be used to *analyze the unique aspects of games as an artistic medium*? Similarly, consider how the game can be used to demonstrate the unique aspects of games as an artistic medium. This could include interactivity, player agency, or emergent gameplay. Here too you should focus on avoiding gate-keeping and try to find ways to draw in as many people as possible who may not be particularly familiar with games.
-8. What are the *biggest challenges* for the making of this game? Consider the technical and design challenges that you will face in making the game. This could include anything from implementing a complex AI system to designing a user-friendly UI.
-9. How well does this game *fit to your currently available resources*? Consider how well the game fits with your available resources, such as time, money, and team size. This will help you determine whether the game is feasible to develop given your current limitations.
+6. What are the *biggest challenges* for the making of this game? Consider the technical and design challenges that you will face in making the game. This could include anything from implementing a complex AI system to designing a user-friendly UI.
+7. How well does this game *fit to your currently available resources*? Consider how well the game fits with your available resources, such as time, money, and team size. This will help you determine whether the game is feasible to develop given your current limitations.
+8. How can this game be used to *showcase aspects of game development*? Consider how the game can be used to showcase particular aspects of game development in form of engaging video content. Is there a specific topic you could make an educational video about for other game devs while using this game idea as a practical example? Or what kind of video could reach a wider audience and introduce artists and art-interested people to the development process of games?
+9. How can this game be used to *analyze the unique aspects of games as an artistic medium*? Similarly, consider how the game can be used to demonstrate the unique aspects of games as an artistic medium. This could include interactivity, player agency, or emergent gameplay. Here too you should focus on avoiding gate-keeping and try to find ways to draw in as many people as possible who may not be particularly familiar with games.
 
 > Once again, if you have trouble answering these questions, consider putting in more work into the concept or going back to the [Brainstorming](#brainstorming) section.
 
