@@ -40,74 +40,81 @@ What follows is the creation of the most important document of this phase, the G
 
 With your Game Concept figured out, you should now write a *first draft* of the GDD. This means starting with a structure like the one provided below, adjusting it to your Game Concept if neccessary and filling it with content.
 
-```
 1. Introduction
-    1.1 Overview
-    1.2 Purpose
-    1.3 Audience
-    1.4 Scope
-    1.5 References
+   - 1.1 Overview
+   - 1.2 Purpose
+   - 1.3 Audience
+   - 1.4 Scope
+   - 1.5 References
 2. Game Overview
-    2.1 Game Concept
-    2.2 Design Pillars
-    2.3 Narrative Pillars
-    2.4 Look And Feel
+   - 2.1 Game Concept
+   - 2.2 Design Pillars
+   - 2.3 Narrative Pillars
+   - 2.4 Look And Feel
 3. Walkthrough
 4. Game World
-    4.1. Overview
-    4.2. Lore
-    4.3. Locations
+   - 4.1 Overview
+   - 4.2 Lore
+   - 4.3 Locations
 5. Story
-    5.1 Overview
-    5.2 Characters
-    5.3 Plot
+   - 5.1 Overview
+   - 5.2 Characters
+   - 5.3 Plot
 6. Gameplay Mechanics
-    6.1 Movement
-    6.2 Combat
-    6.3 Environmental Interactions
-    6.4 Narrative Interactions
-    6.5 Progression
+   - 6.1 Player Actions (Movement, etc.)
+   - 6.2 Level
+   - 6.3 Systems
+   - 6.4 Entities
+   - 6.5 Upgrades
 7. Levels and Objectives
-    7.1 Overview
-    7.2 Objectives
-    7.3 Level-Specific Game Mechanics
+   - 7.1 Overview
+   - 7.2 Objectives
+   - 7.3 Level-Specific Gameplay Mechanics
 8. User Interface and HUD
-    8.1 Menu Design
-    8.2 In-game UI Elements
-    8.3 HUD design
+   - 8.1 Menu Design
+   - 8.2 In-game UI Elements
+   - 8.3 HUD design
 9. Art Style and Graphics
-    9.1 Art Style
-    9.2 Character Design
-    9.3 Environmental Design
-    9.4 Special Effects And Particle Systems
+   - 9.1 Art Style
+   - 9.2 Character Design
+   - 9.3 Environmental Design
+   - 9.4 Special Effects And Particle Systems
 10. Sound Design and Music
-    10.1 Sound Effects
-    10.2 Background Music And Score
-    10.3 Voice acting
+   - 10.1 Sound Effects
+   - 10.2 Background Music And Score
+   - 10.3 Voice acting
 11. Multiplayer and Online Features
-    11.1 Multiplayer Modes
-    11.2 Online Features and Connectivity
-    11.3 Matchmaking And Ranking Systems
+   - 11.1 Multiplayer Modes
+   - 11.2 Online Features and Connectivity
+   - 11.3 Matchmaking And Ranking Systems
 12. Development and Production
-    12.1 Milestones
-    12.2 Production Timeline
-    12.3 Budget And Resources Required
-    12.4 Tools And Software Used
+   - 12.1 Milestones
+   - 12.2 Production Timeline
+   - 12.3 Budget And Resources Required
+   - 12.4 Tools And Software Used
 12. Conclusion
-    12.1 Summary
-    12.2 Future Plans
-    12.3 Appendices
-```
+   - 12.1 Summary
+   - 12.2 Future Plans
+   - 12.3 Appendices
 
 The structure of a GDD can and will change from project to project. Not every game project will need all of the elements listed above. To provide a concrete example, you can find the GDD for the `SLINGSHOT` project [here](https://share-docs.clickup.com/9004010474/d/h/8cawjza-41/20c1c286a990252). You will notice that several points have been altered or are left out to fit the smaller scope of the Game Concept.
 
+<a name="elements"></a>
+### 2.2 Elements
+
+#### 1. Introduction
+- Document-related info.
+
+#### 2. Game Overview
+- Link to previously created Game Concept.
+
 <a name="modular-approach"></a>
-### 2.2 Modular Approach
+### 2.3 Modular Approach
 
 XXX
 
 <a name="iteration"></a>
-### 2.3 Prototyping
+### 2.4 Prototyping
 
 Prototyping your game means creating a working model of the Game Concept in order to test its feasibility, functionality, and fun factor. It's an essential step in game development that allows developers to experiment with different mechanics, gameplay systems, and visual styles before committing to a full-scale production. Prototyping allows developers to test their game ideas quickly and cheaply, identify potential problems, and make changes to refine the core mechanics and gameplay systems. It's an iterative process that can help developers make better design decisions and create a more polished and enjoyable final product.
 
