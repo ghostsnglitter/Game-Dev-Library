@@ -65,7 +65,7 @@ But before that, here are some general notes and ideas on the creation of the Ga
    - 1.5 References
 2. Game Overview
    - 2.1 [Game Concept](#elements-game-concept)
-   - 2.2 [Design Pillars](#elements-design-pillars)
+   - 2.2 [Gameplay Pillars](#elements-gameplay-pillars)
    - 2.3 [Narrative Pillars](#elements-narrative-pillars)
    - 2.4 [Look And Feel](#elements-look-and-feel)
 3. [Walkthrough](#elements-walkthrough)
@@ -128,8 +128,8 @@ Document-related info.
 #### Game Concept
 Link to previously created Game Concept.
 
-<a name="elements-design-pillars"></a>
-#### Game Design Pillars
+<a name="elements-gameplay-pillars"></a>
+#### Gameplay Pillars
 List 3-5 key game design pillars describing the gameplay.[^1] These should be simple adjectives, for example:
 
 [^1]: This approach comes from Chris Gardiner's GDC talk ["Sunless Skies: A Narrative Postmortem"](https://youtu.be/_sslFBVy5Lc)
