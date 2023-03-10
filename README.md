@@ -47,28 +47,28 @@ This is the main part of the guide. What follows are short descriptions of the d
 
 In the Concept Phase, you will funnel your many ideas into a single, clearly defined game concept and critically evaluate it. If you are satisfied, you will make the commitment to move into Pre-Production.
 
-[[Go to Concept Phase]](1_ConceptPhase.md/#concept-phase)
+[[Go to Concept Phase]](Phases/1_ConceptPhase.md/#concept-phase)
 
 <a name="pre-production"></a>
 ### 2.2 Pre-Production
 
 During Pre-Production, you are going to hash out the most important design decisions. This is done through an iterative process of design and prototyping. You will also consider the resources that will be needed and draw up a plan for the realisation of your game - including an initial timeline - so that you can move on to Production.
 
-[[Go to Pre-Production]](2_PreProduction.md/#pre-production)
+[[Go to Pre-Production]](Phases/2_PreProduction.md/#pre-production)
 
 <a name="production"></a>
 ### 2.3 Production
 
 In Production, you will implement the specified design. This too is an interative process consisting of different stages, during which the design may need to be updated. The implementation is accompanied by consistent content preparation for public presentation of the game - with an increased commitment towards the release, which will mark the end of this phase.
 
-[[Go to Production]](3_Production.md/#production)
+[[Go to Production]](Phases/3_Production.md/#production)
 
 <a name="post-release"></a>
 ### 2.4 Post-Release
 
 The post-release period is all about increasing engagement, and working on updates and improvements. Depending on the game, additional content may be created.
 
-[[Go to Post-Release]](4_PostRelease.md/#post-release)
+[[Go to Post-Release]](Phases/4_PostRelease.md/#post-release)
 
 <a name="general-ressources"></a>
 ## 3. General Ressources

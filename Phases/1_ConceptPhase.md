@@ -23,7 +23,7 @@ A game idea is just that - an idea, like `"2D game where you can perform a sling
 
 If you are planning on using this guide for your own game project, you probably already have one or even many different game ideas in your head. If not, a focused brainstorming session can help you collect as many game ideas as possible or play around with different variations of the same idea. A good web-app for brainstorming is [Kinopio](https://kinopio.club/):
 
-![Image](Images/sc_Kinopio.png)
+![Image](Images/Kinopio.png)
 
 It serves as a virtual whiteboard and can help you organize and connect ideas visually. I mostly use it temporarily for mind-mapping and instead collect the most promising game ideas as notes in my [OneNote](https://www.onenote.com/?public=1) notebook (which i use for other stuff, too). This makes it easier to quickly write down ideas on my mobile phone.
 
@@ -58,7 +58,7 @@ Every one of these elements is extremely important when presenting your idea to 
 
 If you need help, you might want to try turning your game idea into a concept by iterating on some creative and concise prompts to ask [ChatGPT](https://chat.openai.com/chat):
 
-![Image](Images/sc_ChatGPT_1.png)
+![Image](Images/ChatGPT_1.png)
 
 > If you have trouble turning a vague game idea into a concrete concept, you should consider that as a warning sign - not because the idea is worthless, but because you should not move any further into the development process before figuring out a concept. Seriously. Take your time, let the idea grow in the back of your mind while you're working on something else. Instead of breaking your head about this one idea, consider going back to the [previous step](#collecting-ideas).
 

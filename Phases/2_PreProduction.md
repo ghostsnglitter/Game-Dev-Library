@@ -1,5 +1,7 @@
 [[Back to Main Page]](README.md/#production-guide-for-solo-game-development)
 
+capitalize I
+
 # Pre-Production
 
 During Pre-Production, you are going to hash out the most important design decisions. This is done through an iterative process of design and prototyping. You will also consider the resources that will be needed and draw up a plan for the realisation of your game - including an initial timeline - so that you can move on to Production.
@@ -8,10 +10,12 @@ During Pre-Production, you are going to hash out the most important design decis
 ## Table of Contents
 
 > 1. [Setting Up A Backlog](#backlog)
-> 2. [Prototyping](#prototyping)
-> 3. [Creating A Game Design Document](#game-design-document)
->    - 3.1 [Structure](#structure)
->    - 3.2 [Elements](#elements)
+> 2. [Creating A Game Design Document](#game-design-document)
+>    - 2.1 [Structure](#structure)
+>    - 2.2 [Elements](#elements)
+> 3. [Iteration](#iteration)
+>    - 3.1 [Process](#process)
+>    - 3.2 [Prototyping](#prototyping)
 
 <a name="backlog"></a>
 ## 1. Setting Up A Backlog
@@ -22,23 +26,11 @@ Because you are about to create important design documents, it makes sense to se
 
 There are different project management applications that can be used for this, but my personal pick is [ClickUp](https://www.clickup.com/):
 
-![Image](Images/sc_ClickUp.png)
+![Image](Images/ClickUp.png)
 
 It is extremely feature-rich and customizable (even the free version). This might make it a bit too much for your first project though, so feel free to use alternatives for your own backlog (i've heard about [Nuclino](https://nuclino.com/), [Milanote](https://milanote.com/) and others).
 
 The specifics of the backlog structure can vary drastically depending on what type of game you are making. Still, if you are going with ClickUp, [here](https://app.clickup.com/template/project/t-90040105296/d6e92afd78aea9a) you can find a template for a space dedicated to the `SLINGSHOT` project used as an example earlier.
-
-<a name="prototyping"></a>
-## 2. Prototyping
-
-As soon as you have your Game Concept, you can begin prototyping different elements of your game, like an important gameplay mechanic or the art-style.
-
-Prototyping your game means creating a working model in order to test its feasibility, functionality, and fun factor. It's an essential step in game development that allows you to experiment with different mechanics, gameplay systems, and visual styles before committing to a full-scale production. It's an iterative process that can happen in parallel with [Creating A Game Design Document](#game-design-document).
-
-Consider the following tips when creating a prototype for your game:
-- Stay *focused* on the specific thing you want to test. If it is a gameplay mechanic, use primitive shapes like circles and triangles to represent actors and objects.
-- Create a *paper prototype* as a low-cost way to quickly iterate on game mechanics and gameplay systems.
-- Do *playtests* and use feedback to refine the core mechanics and gameplay systems.
 
 <a name="game-design-document"></a>
 ## 3. Creating A Game Design Document
@@ -206,3 +198,25 @@ An overview of the budget planned for Production, as well as the resources neede
 <a name="elements-tools"></a>
 #### Tools And Software Used
 An overview of all tools used for the development of this game. This should include the specific editor version of Unity (or whatever game endinge is used), the chosen source control software, 3D-modeling software, etc.
+
+<a name="iteration"></a>
+## 3. Iteration
+
+The creation of the first draft of the GDD initiates a process of iteration with the goal of properly testing and refining the design.
+
+<a name="process"></a>
+### 3.1 Process
+
+XXX
+
+<a name="prototyping"></a>
+### 3.2 prototyping
+
+As soon as you have your Game Concept, you can begin prototyping different elements of your game, like an important gameplay mechanic or the art-style.
+
+Prototyping your game means creating a working model in order to test its feasibility, functionality, and fun factor. It's an essential step in game development that allows you to experiment with different mechanics, gameplay systems, and visual styles before committing to a full-scale production. It's an iterative process that can happen in parallel with [Creating A Game Design Document](#game-design-document).
+
+Consider the following tips when creating a prototype for your game:
+- Stay *focused* on the specific thing you want to test. If it is a gameplay mechanic, use primitive shapes like circles and triangles to represent actors and objects.
+- Create a *paper prototype* as a low-cost way to quickly iterate on game mechanics and gameplay systems.
+- Do *playtests* and use feedback to refine the core mechanics and gameplay systems.
