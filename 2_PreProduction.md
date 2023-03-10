@@ -13,9 +13,7 @@ During Pre-Production, you are going to hash out the most important design decis
 > 2. [Creating A Game Design Document](#game-design-document)
 >    - 2.1 [Structure](#structure)
 >    - 2.2 [Elements](#elements)
-> 3. [Iteration](#iteration)
->    - 3.1 [Process](#process)
->    - 3.2 [Prototyping](#prototyping)
+> 3. [Prototyping](#prototyping)
 
 <a name="backlog"></a>
 ## 1. Setting Up A Backlog
@@ -26,28 +24,28 @@ Because you are about to create important design documents, it makes sense to se
 
 There are different project management applications that can be used for this, but my personal pick is [ClickUp](https://www.clickup.com/):
 
-![Image](Images/ClickUp.png)
+![ClickUp](Images/ClickUp.png "An example interface on ClickUp")
 
 It is extremely feature-rich and customizable (even the free version). This might make it a bit too much for your first project though, so feel free to use alternatives for your own backlog (i've heard about [Nuclino](https://nuclino.com/), [Milanote](https://milanote.com/) and others).
 
 The specifics of the backlog structure can vary drastically depending on what type of game you are making. Still, if you are going with ClickUp, [here](https://app.clickup.com/template/project/t-90040105296/d6e92afd78aea9a) you can find a template for a space dedicated to the `SLINGSHOT` project used as an example earlier.
 
 <a name="game-design-document"></a>
-## 3. Creating A Game Design Document
+## 2. Creating A Game Design Document
 
 What follows is the creation of the most important document of this phase, the Game Design Document (GDD). It will serve as a blueprint for the entire project and as a plan for the production phase.
 
-This document may be created in a process of iteration, [prototyping](#prototyping) core gameplay mechanics and ideas before integrating them into the GDD. Afterwards, you should have a comprehensive document with all of the design specifications neccessary to realize the game from start to finish - even though it will likely be updated multiple times during production.
+You should create a first draft of this document, then complete and refine it in a process of iteration (see 3. [Iteration](#iteration)).  Afterwards, you will have a comprehensive document with all of the design specifications neccessary to realize the game from start to finish - even though there will most likely be adjustments made during production.
 
-What follows is a - quite expansive - *example* structure for the document. While smaller games will not require all of the sections listed, it is helpful to get an overview of what kinds of things *could* be relevant when designing your game. Below the structure you will find detailed information on specific (those that aren't self-explanatory).
+Below you will find a - quite expansive - *example* structure for the document, as well as detailed information on specific elements. While smaller games will not require all of the sections listed, it is helpful to get an overview of what kinds of things *could* be relevant when designing your game.
 
 But before that, here are some general notes and ideas on the creation of the Game Design Document:
-- As explained in [Setting Up A Backlog](#backlog), you should integrate the GDD into your backlog. Depending on the project management tool you are using, this can enable you to reference tasks, other documents, etc. and vice versa.
+- As explained in 1. [Setting Up A Backlog](#backlog), you should integrate the GDD into your backlog. Depending on the project management tool you are using, this can enable you to reference tasks, other documents, etc. and vice versa.
 - Even with a comprehensive structure like the one below, the individual elements should be kept short and to-the-point. You can use bullet points where it makes sense.
 - Include reference images and diagrams - especially for game systems, it can help to use diagrams visualizing processes. A nice and simple web-tool for this is [draw.io](https://app.diagrams.net/).
 
 <a name="structure"></a>
-### 3.1 Structure
+### 2.1 Structure
 
 1. [Introduction](#elements-introduction)
    - 1.1 Overview
@@ -110,7 +108,7 @@ But before that, here are some general notes and ideas on the creation of the Ga
 The structure of a GDD can and will change from project to project. Not every game project will need all of the elements listed above. To provide a concrete example, you can find the GDD for the `SLINGSHOT` project [here](https://share-docs.clickup.com/9004010474/d/h/8cawjza-41/20c1c286a990252). You will notice that several points have been altered or are left out to fit the scope and genre of the game.
 
 <a name="elements"></a>
-### 3.2 Elements
+### 2.2 Elements
 
 <a name="elements-introduction"></a>
 #### Introduction
@@ -199,24 +197,23 @@ An overview of the budget planned for Production, as well as the resources neede
 #### Tools And Software Used
 An overview of all tools used for the development of this game. This should include the specific editor version of Unity (or whatever game endinge is used), the chosen source control software, 3D-modeling software, etc.
 
-<a name="iteration"></a>
-## 3. Iteration
-
-The creation of the first draft of the GDD initiates a process of iteration with the goal of properly testing and refining the design.
-
-<a name="process"></a>
-### 3.1 Process
-
-XXX
-
 <a name="prototyping"></a>
-### 3.2 prototyping
+## 3. Prototyping
 
-As soon as you have your Game Concept, you can begin prototyping different elements of your game, like an important gameplay mechanic or the art-style.
+With the first draft of the GDD you can initiate an interative process of testing and refining the design by creating different prototypes of the game. Here I will describe this process in detail:
 
-Prototyping your game means creating a working model in order to test its feasibility, functionality, and fun factor. It's an essential step in game development that allows you to experiment with different mechanics, gameplay systems, and visual styles before committing to a full-scale production. It's an iterative process that can happen in parallel with [Creating A Game Design Document](#game-design-document).
+![Image](Images/Process_PreProduction_DesignIteration.png "Iterative Design Process in Pre-Production")
 
-Consider the following tips when creating a prototype for your game:
-- Stay *focused* on the specific thing you want to test. If it is a gameplay mechanic, use primitive shapes like circles and triangles to represent actors and objects.
-- Create a *paper prototype* as a low-cost way to quickly iterate on game mechanics and gameplay systems.
-- Do *playtests* and use feedback to refine the core mechanics and gameplay systems.
+As you can see, the process starts when you have a design document to work with and has you going through multiple loops. You can go through as many loops as you need until you feel confident the game's design is ready for production.
+
+In each loop, you go through the following steps:
+1. *Define risks*: Critically evaluate your design and find elements that could be problematic. Analyze the concrete risks and write them down. You might find different kinds of risks:
+   - A gameplay mechanic might not actually be fun to play.
+   - The chosen game engine might not be able to handle the desired number of objects/assets on screen at the same time.
+   - The amount of art assets that need to be created might blow up the scope of the project and cost too much time/money.
+2. *Test* these risks: Chose a fitting approach to test the risks defined before:
+   - Create a prototype for the specific gameplay mechanic.
+   - Create a prototype simulating the specific risk scenario.
+   - Create/comission an art asset and see how much time/money is needed.
+3. *Review* the results: XXX
+4. *Refine Design*: XXX
