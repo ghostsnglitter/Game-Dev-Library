@@ -35,7 +35,7 @@ As soon as you have your Game Concept, you can begin prototyping different eleme
 
 Prototyping your game means creating a working model in order to test its feasibility, functionality, and fun factor. It's an essential step in game development that allows you to experiment with different mechanics, gameplay systems, and visual styles before committing to a full-scale production. It's an iterative process that can happen in parallel with [Creating A Game Design Document](#game-design-document).
 
-Consider the following tipps when creating a prototype for your game:
+Consider the following tips when creating a prototype for your game:
 - Stay *focused* on the specific thing you want to test. If it is a gameplay mechanic, use primitive shapes like circles and triangles to represent actors and objects.
 - Create a *paper prototype* as a low-cost way to quickly iterate on game mechanics and gameplay systems.
 - Do *playtests* and use feedback to refine the core mechanics and gameplay systems.
@@ -45,9 +45,14 @@ Consider the following tipps when creating a prototype for your game:
 
 What follows is the creation of the most important document of this phase, the Game Design Document (GDD). It will serve as a blueprint for the entire project and as a plan for the production phase.
 
-This document may be created in a process of iteration, [prototyping](#prototyping) core gameplay mechanics and ideas before integrating them into the GDD. Afterwards, you should have a comprehensive document with all the design specifications neccessary to realize the game from start to finish - even though it will likely be updated multiple times during production.
+This document may be created in a process of iteration, [prototyping](#prototyping) core gameplay mechanics and ideas before integrating them into the GDD. Afterwards, you should have a comprehensive document with all of the design specifications neccessary to realize the game from start to finish - even though it will likely be updated multiple times during production.
 
-First i will provide a - quite expansive - *example* [structure](#structure) for the document. While smaller games will not require all of the sections listed, it is helpful to get an overview of what kinds of things *could* be relevant when designing your game. Below the structure you will find more information on specific [elements](#elements).
+What follows is a - quite expansive - *example* structure for the document. While smaller games will not require all of the sections listed, it is helpful to get an overview of what kinds of things *could* be relevant when designing your game. Below the structure you will find detailed information on specific (those that aren't self-explanatory).
+
+But before that, here are some general notes and ideas on the creation of the Game Design Document:
+- As explained in [Setting Up A Backlog](#backlog), you should integrate the GDD into your backlog. Depending on the project management tool you are using, this can enable you to reference tasks, other documents, etc. and vice versa.
+- Even with a comprehensive structure like the one below, the individual elements should be kept short and to-the-point. You can use bullet points where it makes sense.
+- Include reference images and diagrams - especially for game systems, it can help to use diagrams visualizing processes. A nice and simple web-tool for this is [draw.io](https://app.diagrams.net/).
 
 <a name="structure"></a>
 ### 3.1 Structure
@@ -77,7 +82,7 @@ First i will provide a - quite expansive - *example* [structure](#structure) for
    - 6.2 [Environmental Interactions](#elements-environmental-interactions)
    - 6.3 [Narrative Mechanics](#elements-narrative-mechanics)
    - 6.4 [Systems](#elements-systems)
-   - 6.5 Entities
+   - 6.5 [Enemies](#elements-enemies)
    - 6.6 Upgrades
 7. [Levels And Objectives](#elements-levels-and-objectives)
    - 7.1 Overview
@@ -101,10 +106,10 @@ First i will provide a - quite expansive - *example* [structure](#structure) for
     - 11.2 Online Features And Connectivity
     - 11.3 Matchmaking And Ranking Systems
 12. Development And Production
-    - 12.1 Milestones
-    - 12.2 Production Timeline
-    - 12.3 Budget And Resources Required
-    - 12.4 Tools And Software Used
+    - 12.1 [Milestones](#elements-milestones)
+    - 12.2 [Production Timeline](#elements-timeline)
+    - 12.3 [Budget And Resources Required](#elements-resources)
+    - 12.4 [Tools And Software Used](#elements-tools)
 12. Conclusion
     - 12.1 Summary
     - 12.2 Future Plans
@@ -125,15 +130,24 @@ Link to previously created Game Concept.
 
 <a name="elements-design-pillars"></a>
 #### Game Design Pillars
-List 3-5 key design pillars describing the gameplay, for example:
+List 3-5 key game design pillars describing the gameplay[^1]. These should be simple adjectives, for example:
+
+[^1]: This approach comes from Chris Gardiner's GDC talk ["Sunless Skies: A Narrative Postmortem"](https://youtu.be/_sslFBVy5Lc)
 
 1. Fast: The action should start right away. Player movement should feel quick and agile. When players die, they should be able to start over immediately.
 2. Emergent: The game should have very simple player actions and objectives, but create increasingly complex situations through the interaction of various game systems.
-3. Learning through playing: The player should learn how the game's ecosystem works through trial and error. In the early stages of the game, dying should feel like learning and inspire a desire to try again, while later in the game the thrill comes from seeing how far you can push your highscore.
+3. Challenging: It should be a real challenge to stay alive for a long time, creating an intense experience.
+4. Rewarding: Learning how the game's ecosystem works and using this knowledge to your advantage should feel extremely rewarding and addicting.
 
 <a name="elements-design-pillars"></a>
 #### Narrative Pillars
-Repeat the same thing for the game's narrative.
+List 3-5 key narrative design pillars describing the mood, atmosphere, and overall direction of the game's narrative[^1]. These can be sentences or quotes conveying a particular tone. An example from `Sunless Skies`:
+
+1. Stake your Claim
+2. Who are you, In the Dark?
+3. Conceal your Hand
+4. Mind your Manners
+5. Nothing is Sacred
 
 <a name="elements-look-and-feel"></a>
 #### Look And Feel
@@ -145,7 +159,7 @@ Describe the game's aesthetic and game feel with precise vocabulary, for example
 
 <a name="elements-walkthrough"></a>
 #### Walkthrough
-Write a short second-preson walkthrough of an example play session. This should not be too long, but provides a good overview of the chronological *experience* of playing the game, before isolating and categorizing the individual game elements. 
+Write a short second-preson walkthrough of an example play session. This should not be too long, but provides a good overview of the chronological *experience* of playing the game, without isolating and categorizing the individual game elements. 
 
 <a name="elements-story"></a>
 #### Story
@@ -161,12 +175,34 @@ List and describe important environmental interactions, like opening doors, etc.
 
 <a name="elements-narrative-mechanics"></a>
 #### Narrative Mechanics
-List and describe important narrative mechanics, like a dialogue system, etc.
+List and describe important narrative mechanics, like dialogue systems, etc.
 
 <a name="elements-systems"></a>
 #### Systems
 List and describe important systems (that don't fall into the previous categories), like scoring systems, upgrade systems, etc.
 
+<a name="elements-enemies"></a>
+#### Enemies
+List all enemy types and their features here (this is only an example, depending on the game you might add `Classes` or `Creatures`, etc. under Gameplay Mechanics).
+
 <a name="elements-levels-and-objectives"></a>
 #### Levels And Objectives
-Provide and overview of the different levels, their objectives, and list level-specific gameplay mechanics. This is only an outline, the details for individual levels should be in a seperate document created during Production.
+Provide and overview of the different levels, their objectives, and list level-specific gameplay mechanics. This is only an outline, the details for individual levels should be found in a seperate document created during Production.
+
+<a name="elements-milestones"></a>
+#### Milestones
+Production milestones may include `First Playable` (first build to give a proper idea of the gameplay, stuff like menus may still be missing), `Vertical Slice` (a short but fully playable sample of the final game that can be used to pitch to studios or investors), `Pre-Alpha` (the majority of the game's content is implemented, enabling you to initiate playtests and make decisions about what needs to get cut or improved), `Alpha` (a feature-complete build of the game, which may still lack certain elements, like art assets, and needs to be further polished and cleansed of bugs, etc.), `Beta` (a complete game build that now needs to be optimized above all else), `Gold Master` (the final game build, ready to be released to the public).[^2]
+
+[^2]: source: https://www.cgspectrum.com/blog/game-development-process
+
+<a name="elements-timeline"></a>
+#### Production Timeline
+A rough timeline for Production, giving the individual milestones due dates.
+
+<a name="elements-resources"></a>
+#### Budget And Resources Required
+An overview of the budget planned for Production, as well as the resources needed (assets for example).
+
+<a name="elements-tools"></a>
+#### Tools And Software Used
+An overview of all tools used for the development of this game. This should include the specific editor version of Unity (or whatever game endinge is used), the chosen source control software, 3D-modeling software, etc.
