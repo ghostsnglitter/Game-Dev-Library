@@ -202,11 +202,14 @@ An overview of all tools used for the development of this game. This should incl
 
 With the first draft of the GDD you can initiate an interative process of testing and refining the design by creating different prototypes of the game. Here I will describe this process in detail:
 
-![Image](Images/Process_PreProduction_DesignIteration.png "Iterative Design Process in Pre-Production")
+![Image](Images/Process_PreProduction_DesignIteration.png "Prototyping as an iterative design process during Pre-Production")
 
 As you can see, the process starts when you have a design document to work with and has you going through multiple loops. You can go through as many loops as you need until you feel confident the game's design is ready for production.
 
-In each loop, you go through the following steps:
+In each loop, you go through the following steps:[^3]
+
+[^3]: These steps are derived from Jesse Shell's book "The Art of Game Design"
+
 1. *Define risks*: Critically evaluate your design and find elements that could be problematic. Analyze the concrete risks and write them down. You might find different kinds of risks:
    - A gameplay mechanic might not actually be fun to play.
    - The chosen game engine might not be able to handle the desired number of objects/assets on screen at the same time.
