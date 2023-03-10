@@ -1,4 +1,4 @@
-[[Back to Main Page]](blob/main/README.md/#production-guide-for-solo-game-development)
+[[Back to Main Page]](README.md/#production-guide-for-solo-game-development)
 
 capitalize I
 
