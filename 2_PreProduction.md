@@ -130,7 +130,7 @@ Link to previously created Game Concept.
 
 <a name="elements-design-pillars"></a>
 #### Game Design Pillars
-List 3-5 key game design pillars describing the gameplay[^1]. These should be simple adjectives, for example:
+List 3-5 key game design pillars describing the gameplay.[^1] These should be simple adjectives, for example:
 
 [^1]: This approach comes from Chris Gardiner's GDC talk ["Sunless Skies: A Narrative Postmortem"](https://youtu.be/_sslFBVy5Lc)
 
@@ -141,7 +141,7 @@ List 3-5 key game design pillars describing the gameplay[^1]. These should be si
 
 <a name="elements-design-pillars"></a>
 #### Narrative Pillars
-List 3-5 key narrative design pillars describing the mood, atmosphere, and overall direction of the game's narrative[^1]. These can be sentences or quotes conveying a particular tone. An example from `Sunless Skies`:
+List 3-5 key narrative design pillars describing the mood, atmosphere, and overall direction of the game's narrative.[^1] These can be sentences or quotes conveying a particular tone. An example from `Sunless Skies`:
 
 1. Stake your Claim
 2. Who are you, In the Dark?
@@ -193,7 +193,7 @@ Provide and overview of the different levels, their objectives, and list level-s
 #### Milestones
 Production milestones may include `First Playable` (first build to give a proper idea of the gameplay, stuff like menus may still be missing), `Vertical Slice` (a short but fully playable sample of the final game that can be used to pitch to studios or investors), `Pre-Alpha` (the majority of the game's content is implemented, enabling you to initiate playtests and make decisions about what needs to get cut or improved), `Alpha` (a feature-complete build of the game, which may still lack certain elements, like art assets, and needs to be further polished and cleansed of bugs, etc.), `Beta` (a complete game build that now needs to be optimized above all else), `Gold Master` (the final game build, ready to be released to the public).[^2]
 
-[^2]: source: https://www.cgspectrum.com/blog/game-development-process
+[^2]: Source: https://www.cgspectrum.com/blog/game-development-process
 
 <a name="elements-timeline"></a>
 #### Production Timeline
