@@ -15,8 +15,6 @@ This guide collects ideas, tools and resources for solo game development.
 > 4. [General Resources](#gneral-resources)
 >    - 4.1 [Learning Material](#learning-material)
 
----
-
 <a name="introduction"></a>
 ## 1. Introduction
 
@@ -33,8 +31,6 @@ Before we go any further, a few important notes up front:
 - Game development is a multifaceted process that requires expertise from various fields. This guide aims to provide a comprehensive overview by incorporating creative/artistic, technological, and economic perspectives.
 
 [[Back to Top]](#complete-guide-for-solo-game-development)
-
----
 
 <a name="phases"></a>
 ## 2. Phases Of Game Development
@@ -63,16 +59,12 @@ The `Post-Release` period is about updating and improving the game, engaging wit
 
 [[Back to Top]](#complete-guide-for-solo-game-development)
 
----
-
 <a name="distribution"></a>
 ## 3. Distribution
 
 XXX
 
 [[Back to Top]](#complete-guide-for-solo-game-development)
-
----
 
 <a name="general-ressources"></a>
 ## 4. General Ressources
