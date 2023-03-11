@@ -62,7 +62,7 @@ A game concept should be less than one page in length and include the following 
 
 [^1]: Taken from the filter options in the Steam store. You can find descriptor tags by browsing the available options.
 
-Each of these elements is extremely important, not only for pitching your idea, but also for making good design choices later on. No matter how experimental and artsy your game is, your game concept should include all of these elements. However, the exact format varies and should be adapted to what works best for your particular game. As an example, you can find the game concept for the `SLINGSHOT` project [here](https://share-docs.clickup.com/9004010474/d/h/8cawjza-1327/5969df1d1dbeaa2).
+Each of these elements is extremely important, not only for pitching your idea, but also for making good design choices later on. No matter how experimental and artsy your game is, your game concept should include all of these elements. However, the exact format varies and should be adapted to what works best for your particular game. As an example, you can find the game concept for the `SLINGSHOT` project [here](https://share-docs.clickup.com/9004010474/p/h/8cawjza-1127/a4494a0363b6815).
 
 It can also help to break down the game into four core components, all of which interact with each other:
 
