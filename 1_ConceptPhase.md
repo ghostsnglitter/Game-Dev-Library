@@ -66,7 +66,7 @@ Each of these elements is extremely important, not only for pitching your idea, 
 
 It can also help to break down the game into four core components, all of which interact with each other:
 
-![GameElements](Images/GameComponents.png "A game broken down into four core elements")
+![GameComponents](Images/GameComponents.png "A game broken down into four core components")
 
 You can see that the `Technology` component is not fully drawn, because it is not very important yet. More important are the relationships between `Mechanics` - the processes and rules of your game, `Aesthetic` - the look, feel, *vibe* of your game, and the `Story` - the sequence of events in your game creating a coherent experience.
 
