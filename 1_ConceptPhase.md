@@ -13,6 +13,8 @@ In the `Concept Phase`, you will funnel your many ideas into a single, clearly d
 > 2. [Creating A Game Concept](#creating-concept)
 > 3. [Evaluating The Concept](#evaluating-concept)
 
+---
+
 <a name="collecting-ideas"></a>
 ## 1. Collecting Game Ideas
 
@@ -42,6 +44,8 @@ Personally, I often can't stop my brain from constantly producing new game ideas
 
 [[Back to Top]](#concept-phase)
 
+---
+
 <a name="creating-concept"></a>
 ## 2. Creating A Game Concept
 
@@ -58,7 +62,7 @@ A game concept should be less than one page in length and include the following 
 
 [^1]: Taken from the filter options in the Steam store. You can find descriptor tags by browsing the available options.
 
-Each of these elements is extremely important, not only for pitching your idea, but also for making good design choices later on. No matter how experimental and artsy your game is, your game concept should include all of these elements. However, the exact format varies and should be adapted to what works best for your particular game. As a concrete example, you can find the game concept for the `SLINGSHOT` project [here](https://share-docs.clickup.com/9004010474/d/h/8cawjza-1327/5969df1d1dbeaa2).
+Each of these elements is extremely important, not only for pitching your idea, but also for making good design choices later on. No matter how experimental and artsy your game is, your game concept should include all of these elements. However, the exact format varies and should be adapted to what works best for your particular game. As an example, you can find the game concept for the `SLINGSHOT` project [here](https://share-docs.clickup.com/9004010474/d/h/8cawjza-1327/5969df1d1dbeaa2).
 
 It can also help to break down the game into four core components, all of which interact with each other:
 
@@ -73,6 +77,8 @@ If you need more help, you might want to try turning your game idea into a conce
 > If you have trouble turning a vague game idea into a concrete concept, you should take that as a warning sign - not that the idea is worthless, but that you should not go any further in the development process until you have a concept. Seriously. Take your time, let the idea grow in the back of your mind. Instead of dwelling on this one idea, you should consider going back to the [previous step](#collecting-ideas).
 
 [[Back to Top]](#concept-phase)
+
+---
 
 <a name="evaluating-concept"></a>
 ## 3. Evaluating The Concept

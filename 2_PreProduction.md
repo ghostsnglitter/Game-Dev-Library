@@ -11,34 +11,43 @@ During `Pre-Production`, you are going to hash out the most important design dec
 > 2. [Creating A Game Design Document](#game-design-document)
 >    - 2.1 [Structure](#structure)
 >    - 2.2 [Elements](#elements)
-> 3. [Prototyping](#prototyping)
+> 3. [Managing Risks](#managing-risks)
+>    - 3.1 [Risk Analysis](#risk-analysis)
+>    - 3.2 [Prototyping](#prototyping)
+> 4. [Funding](#funding)
+
+---
 
 <a name="backlog"></a>
 ## 1. Setting Up A Backlog
 
-A central element of your game's development is the backlog. It serves as an important project management framework, housing all the design documents, all the tasks that need to be done, and a project timeline with milestones and due dates.
+A crucial part of your game's development is the backlog. It serves as an important project management framework, housing all the design documents, all the tasks that need to be done, and a project timeline with milestones and due dates.
 
-Since you are about to create important design documents, it makes sense to set up the backlog early. To begin with, you really only need to *create a dedicated space for your game project, with the ability to add documents and tasks as you go along* (you should start by integrating the game concept you created in the previous phase).
+Since you are about to create important design documents, it makes sense to set up the backlog early. To begin with, you really only need to *create a dedicated space for your game project, with the ability to add documents and tasks as you go along* (you should start by integrating the game concept you created in the previous phase). Many of the tasks will come directly from the game design document created in the next step, and can be written as a list of features to be implemented. Of course, you may also want to create task lists for administrative work, etc.
 
 There are different project management applications that can be used for this, but my personal pick is [ClickUp](https://www.clickup.com/):
 
-![ClickUp](Images/ClickUp.png "An example interface on ClickUp")
+[![ClickUp](Images/ClickUp.png "An example look on ClickUp's interface")](https://www.google.com/imgres?imgurl=https%3A%2F%2Fclickup.com%2Fimages%2Fv2%2Fviews%2Ftask%2Fboard-view.png&imgrefurl=https%3A%2F%2Fclickup.com%2Ffeatures&tbnid=vDMXfyarHV-RuM&vet=12ahUKEwjO0bGAntT9AhWcwQIHHWXzB8IQMygDegUIARDPAQ..i&docid=kM8svJibefhcEM&w=1299&h=883&itg=1&q=clickup&ved=2ahUKEwjO0bGAntT9AhWcwQIHHWXzB8IQMygDegUIARDPAQ)
 
-It is extremely feature-rich and customizable (even the free version). This might be a bit much for your first project though, so feel free to use alternatives for your own backlog (I've heard of [Nuclino](https://nuclino.com/), [Milanote](https://milanote.com/) and others).
+It is extremely feature-rich and customizable (even the free version). This might be a bit much for your first project though, so feel free to use alternatives for your own backlog (I've heard of [Nuclino](https://nuclino.com/) and [Milanote](https://milanote.com/)).
 
 The specifics of the backlog structure can vary drastically depending on what kind of game you are making. However, if you are using ClickUp, you can find a template for a space dedicated to the `SLINGSHOT` project [here](https://app.clickup.com/template/project/t-90040105296/d6e92afd78aea9a).
+
+[[Back to Top]](#pre-production)
+
+---
 
 <a name="game-design-document"></a>
 ## 2. Creating A Game Design Document
 
-What follows is the creation of the most important document of this phase, the Game Design Document (GDD). It will serve as a blueprint for the entire project and as a plan for the production phase.
+What follows is the creation of the most important document of this phase, the Game Design Document (GDD). It will serve as a blueprint for the entire project, and as a production plan. The general *vibe* of the document is to specify the *design* of the game's elements, such as mechanics, in as much detail as possible, while reserving the actual creation of the game's *content* for the production phase.
 
-You should create a first draft of this document, then complete and refine it in an iterative process of prototyping (see 3. [Prototyping](#prototyping)).  Afterwards, you will have a comprehensive document with all of the design specifications neccessary to realize the game from start to finish - even though there will most likely be adjustments made during production.
+You should create a first draft of this document, then complete and refine it through proper risk analysis (see 3. [Managing Risks](#managing-risks)).  Afterwards, you will have a comprehensive document with all of the design specifications neccessary to realize the game from start to finish - even though you will probably be making further adjustments during production.
 
 Below is a - rather detailed - *example* structure for the document, as well as detailed information on specific elements. While smaller games won't need all of the sections listed, it's helpful to get an overview of what kinds of things *could* be relevant when designing your game.
 
 But before that, here are some general notes and ideas about creating the Game Design Document:
-- As explained in 1. [Setting Up a Backlog](#backlog), you should integrate the GDD into your backlog. Depending on the project management tool you use, this may allow you to reference specific parts of the GDD in tasks or other documents.
+- As explained in 1. [Setting Up A Backlog](#backlog), you should integrate the GDD into your backlog. Depending on the project management tool you use, this may allow you to reference specific parts of the GDD in tasks or other documents.
 - Even with a comprehensive structure like the one below, the individual elements should be kept short and to the point. You can use bullet-points where appropriate.
 - Include reference images and diagrams - especially for game systems, it can be helpful to use diagrams to visualize processes. A nice and simple web tool for this is [draw.io](https://app.diagrams.net/).
 
@@ -181,7 +190,7 @@ Provide an overview of the different levels, their objectives, and list level-sp
 #### Milestones
 Define the major production milestones. These may include `First Playable` (first build to give a good idea of the gameplay, things like menus may still be missing), `Vertical Slice` (a short but fully playable sample of the final game that can be used to pitch to studios or investors), `Pre-Alpha` (the majority of the game's content is implemented, so you can start playtesting and decide what needs to be cut or improved), `Alpha` (a feature-complete build of the game that may still be missing certain elements, such as art assets, and needs further polishing, bug fixing, etc.), `Beta` (a complete build of the game that now needs to be optimized above all else), and `Gold Master' (the final build of the game, ready to be released to the public).[^2]
 
-[^2]: Source: https://www.cgspectrum.com/blog/game-development-process
+[^2]: Taken from the CG Spectrum article ["How video games are made: the game development process"](https://www.cgspectrum.com/blog/game-development-process) by Nadia Stefyn.
 
 <a name="elements-timeline"></a>
 #### Production Timeline
@@ -189,22 +198,25 @@ Create a rough timeline for production by giving the individual milestones due d
 
 <a name="elements-resources"></a>
 #### Budget And Resources Required
-Calculate your budget for for production of this game and list all of the resources needed (assets for example).
+Calculate your budget for production and list all of the resources needed. This should include a full list of assets that need to be created or licensed (models, textures, sounds, etc.), or a an overview with a reference to a more detailed document.
 
 <a name="elements-tools"></a>
 #### Tools And Software Used
-Specify what tools are being used to develop this game. This should include the specific editor version of Unity (or whatever game engine is being used), the chosen source control software, 3D modeling software, etc.
+Specify what tools are being used to develop this game. This should include the specific editor version of Unity (or whatever game engine you are using), the chosen source control software, 3D modeling software, etc. You could include a diagram visualizing your workflow.
 
-<a name="prototyping"></a>
-## 3. Prototyping
+[[Back to Top]](#pre-production)
 
-With the first draft of the GDD, you can begin the iterative process of testing and refining the design by creating different prototypes of the game:
+---
 
-![Image](Images/Process_PreProduction_DesignIteration.png "Prototyping as an iterative design process during Pre-Production")
+<a name="managing-risks"></a>
+## 3. Managing Risks
 
-As you can see, the process begins when you have a design document to work with and takes you through several loops. You can go through as many loops as you need until you feel confident that the game's design is ready for production.
+With a first draft of the GDD, you can begin the iterative process of testing and refining the design.
 
-In each loop, you go through the following steps:
+<a name="risk-analysis"></a>
+### 3.1 Risk Analysis
+
+XXX
 
 1. *Define Risks*: Critically evaluate your design and identify elements that may be problematic. Analyze the specific risks and write them down. You may find several different types of risks:
    - A gameplay mechanic could actually be less fun than imagined.
@@ -218,4 +230,27 @@ In each loop, you go through the following steps:
 3. *Review Results*: XXX
 4. *Refine Design*: XXX
 
+<a name="Prototyping"></a>
+### 3.2 Prototyping
+
+The specific process for prototyping looks as follows:
+
+![Image](Images/Prototyping.png "Prototyping as an iterative design process during pre-production")
+
+As you can see, it starts when you have a design document to work with and takes you through several iterations. You can go through as many as you need until you feel confident that the game's design is ready for production.
+
+In each iteration, you go through the following steps:
+- XXX
+
 [[Back to Top]](#pre-production)
+
+---
+
+<a name="funding"></a>
+## 4. Funding
+
+XXX
+
+[[Back to Top]](#pre-production)
+
+[[Back to Main Page]](README.md/#production-guide-for-solo-game-development)

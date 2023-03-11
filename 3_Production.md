@@ -11,6 +11,8 @@ In `Production`, you will implement the specified design. This too is an interat
 >    - 1.1 [Plastic SCM](#plastic-scm)
 >    - 1.2 [Unity Project](#unity-project)
 
+---
+
 <a name="repository"></a>
 ## 1. Setting Up A Repository
 
@@ -27,3 +29,5 @@ XXX
 XXX
 
 [[Back to Top]](#production)
+
+[[Back to Main Page]](README.md/#production-guide-for-solo-game-development)
