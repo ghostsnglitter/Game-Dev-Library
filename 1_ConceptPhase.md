@@ -2,7 +2,7 @@
 
 # Concept Phase
 
-In the Concept Phase, you will funnel your many ideas into a single, clearly defined game concept and critically evaluate it. If you are satisfied, you will make the commitment to move into Pre-Production.
+In the `Concept Phase`, you will funnel your many ideas into a single, clearly defined game concept and critically evaluate it. If you are satisfied, you will make the commitment to move into Pre-Production.
 
 <a name="toc"></a>
 ## Table of Contents
@@ -16,21 +16,21 @@ In the Concept Phase, you will funnel your many ideas into a single, clearly def
 <a name="collecting-ideas"></a>
 ## 1. Collecting Game Ideas
 
-A game idea is just that - an idea, like `"2D game where you can perform a slingshot move by clicking and dragging the player character"`. There are no specifics required at this stage.
+A game idea is just that - an idea, like `"2D game where you can perform a slingshot move by clicking and dragging the player character"`. No specifics are required at this stage.
 
 <a name="brainstorming"></a>
 ### 1.1 Brainstorming
 
-If you are planning on using this guide for your own game project, you probably already have one or even many different game ideas in your head. If not, a focused brainstorming session can help you collect as many game ideas as possible or play around with different variations of the same idea. A good web-app for brainstorming is [Kinopio](https://kinopio.club/):
+If you plan to use this guide for your own game project, you probably already have one or more game ideas in mind. If not, a focused brainstorming session can help you collect as many game ideas as possible, or play around with different variations of the same idea. A good web application for brainstorming is [Kinopio].(https://kinopio.club/):
 
 ![Kinopio](Images/Kinopio.png "An example board on Kinopio")
 
-It serves as a virtual whiteboard and can help you organize and connect ideas visually. I mostly use it temporarily for mind-mapping and instead collect the most promising game ideas as notes in my [OneNote](https://www.onenote.com/?public=1) notebook (which i use for other stuff, too). This makes it easier to quickly write down ideas on my mobile phone.
+It serves as a virtual whiteboard and can help you visually organize and connect ideas. I mostly use it temporarily for mind-mapping and instead collect the most promising game ideas as notes in my [OneNote](https://www.onenote.com/?public=1) notebook (which I use for other stuff, too). This makes it easier to quickly write down ideas on my mobile phone.
 
 <a name="inspiration"></a>
 ### 1.2 Inspiration
 
-Personally, i often can't stop my brain from constantly producing new game ideas, but sometimes everyone gets stuck. So if you need help coming up with ideas, consider the following approaches:
+Personally, I often can't stop my brain from constantly producing new game ideas, but sometimes everyone gets stuck. So if you need help coming up with ideas, consider the following approaches:
 - *Play games*: Start by playing a wide variety of games, from different genres and platforms. Analyze what you enjoy about each game and what makes it unique. Consider how you could incorporate these elements into your own game.
 - *Identify a problem to solve*: Think about problems that you or others face in their daily lives. This could be anything from a lack of motivation to exercise to difficulty in learning a new language. Brainstorm ways that a game could help solve this problem.
 - *Look for inspiration in other media*: Draw inspiration from books, movies, and TV shows. Consider how you could adapt a particular story or concept into a game.
@@ -43,35 +43,46 @@ Personally, i often can't stop my brain from constantly producing new game ideas
 <a name="creating-concept"></a>
 ## 2. Creating A Game Concept
 
-It is time to create a specific game concept. This means you will need to choose a single game idea that you want to work out more thoroughly. Although the game concept will still only be a very short summary, with it you are laying the foundation for everything that follows (_spoilers_, what follows is a lot of work) and i have seen indie developers create stunning art and impressive tech demos for projects that they ultimately had to cancel, because they didn't have a solid game concept.
+It is time to create a specific game concept. This means that you need to choose a single game idea that you want to flesh out. Although the game concept will still be a very short summary, it will lay the groundwork for everything that follows (_spoiler_, what follows is a lot of work), and I've seen indie developers create stunning art and impressive tech demos for projects that they ultimately had to cancel because they didn't have a solid game concept.
 
-A game concept should be less than one page in length. It should contain the following elements:
-- *Game Overview*: A short, engaging summary of the game, written like an elevator pitch.
+A game concept should be less than one page in length. It should include the following elements:
+- *Game Overview*: A short, compelling summary of the game, written like an elevator pitch.
 - *Genre*: The game's genre, like `Action` and `Arcade`.
-- *Visuals And Viewpoint*: An overview of how the game will look, like `2D` and `Top-Down`
-- *Story*/*Narrative* (if applicable): A brief description of the game's narrative, mentioning setting and core themes.
-- *Gameplay Mechanics*: A list of the game's most important and unique gameplay mechanics. This does not need to be comprehensive, but should provide an idea of how the game will be played.
-- *Target Audience*: A description of target audience, like `Casual gamers of all ages`.
-- *Platforms*: The platform(s) that the game will be built for.
+- *Visuals And Viewpoint*:[^1] An overview of how the game will look like, with descriptors such as `2D` and `Top-Down`.
 
-Every one of these elements is extremely important when presenting your idea to someone. No matter how experimental and artsy your game is, your game concept should cover all of these elements. However, the exact format varies and should be adjusted to what best suits your particular game.
+[^1]: Taken from the filter options in the Steam store. You can find descriptor tags by browsing the available options.
 
-If you need help, you might want to try turning your game idea into a concept by iterating on some creative and concise prompts to ask [ChatGPT](https://chat.openai.com/chat):
+- *Story*/*Narrative* (if applicable): A brief description of the game's narrative, including setting and core themes.
+- *Gameplay Mechanics*: A list of the game's most important and unique gameplay mechanics. This does not need to be exhaustive, but should give an idea of how the game will be played.
+- *Target Audience*: A description of the target audience, such as `"casual gamers of all ages"`.
+- *Platforms*: The platform(s) for which the game will be created.
+
+Each of these elements is extremely important when pitching your idea to anyone. No matter how experimental and artistic your game is, your game concept should include all of these elements. However, the exact format varies and should be adapted to what works best for your particular game.
+
+It can also help to break down the game into four core components, all of which interact with each other:[^2]
+
+[^2]: This visualization is derived from Jesse Schell's book "The Art of Game Design" (2008, p. 42).
+
+![GameElements](Images/GameComponents.png)
+
+You can see that the `Technology` component is not fully drawn, because it is not too important for this step. More important are the relationships between `Mechanics` - the processes and rules of your game, `Aesthetic` - the look, feel, *vibe* of your game, and the `Story` - the sequence of events in your game.
+
+If you need more help, you might want to try turning your game idea into a concept by iterating on some creative and concise prompts to ask [ChatGPT](https://chat.openai.com/chat):
 
 ![ChatGPT_1](Images/ChatGPT_1.png "A ChatGPT response for creating a Game Concept")
 
-> If you have trouble turning a vague game idea into a concrete concept, you should consider that as a warning sign - not because the idea is worthless, but because you should not move any further into the development process before figuring out a concept. Seriously. Take your time, let the idea grow in the back of your mind while you're working on something else. Instead of breaking your head about this one idea, consider going back to the [previous step](#collecting-ideas).
+> If you have trouble turning a vague game idea into a concrete concept, you should take that as a warning sign - not that the idea is worthless, but that you should not go any further in the development process until you have a concept. Seriously. Take your time, let the idea grow in the back of your mind. Instead of dwelling on this one idea, you should consider going back to the [previous step](#collecting-ideas).
 
 To return to the `SLINGSHOT` game idea, you can find the actual game concept [here](https://share-docs.clickup.com/9004010474/d/h/8cawjza-1327/5969df1d1dbeaa2).
 
 <a name="evaluating-concept"></a>
 ## 3. Evaluating The Concept
 
-Now that you have a game concept, there is one last evaluation to go through before moving into Pre-Production. Especially for solo game development, it can be an extremely important step, as it might be the last chance to find some critical shortcomings of your concept before wasting a ton of time on it.
+Now that you have a game concept, there is one last evaluation to go through before moving into pre-production. Especially for solo game development, this can be an extremely important step, as it may be your last chance to find some critical shortcomings in your concept before wasting a lot of time on it.
 
-In order to evaluate the concept, answer all of the following questions (note that some of these questions include considerations for GHOSTS & GLITTER video content): [^1]
+To evaluate the concept, answer all of the following questions (note that some of these questions include considerations for GHOSTS & GLITTER video content): [^3]
 
-[^1]: These questions are derived from Warren Spector's GDC talk ["Classic Game Postmortem: Deus Ex"](https://youtu.be/tffX3VljTtI).
+[^3]: These questions are derived from Warren Spector's GDC talk ["Classic Game Postmortem: Deus Ex"](https://youtu.be/tffX3VljTtI).
 
 1. What is the *core of the game idea*? Start by identifying the central gameplay mechanic or concept that makes your game idea unique. This will serve as the foundation for the rest of the game's design.
 2. How *well-suited is the idea to games* as a medium? Consider how well the game idea lends itself to being translated into a game. For example, if your game idea is heavily focused on narrative, ask yourself if it would be better suited to a different medium, such as a book or film.
@@ -86,3 +97,5 @@ In order to evaluate the concept, answer all of the following questions (note th
 > Once again, if you have trouble answering these questions, consider putting in more work into the concept or going back to the [Brainstorming](#brainstorming) section.
 
 If you have answered all of the questions in a satisfying way, you are ready to move into [Pre-Production](2_PreProduction.md/#pre-production).
+
+[[Back to Top]](#concept-phase)

@@ -1,10 +1,8 @@
 [[Back to Main Page]](README.md/#production-guide-for-solo-game-development)
 
-capitalize I
-
 # Pre-Production
 
-During Pre-Production, you are going to hash out the most important design decisions. This is done through an iterative process of design and prototyping. You will also consider the resources that will be needed and draw up a plan for the realisation of your game - including an initial timeline - so that you can move on to Production.
+During `Pre-Production`, you are going to hash out the most important design decisions. This is done through an iterative process of design and prototyping. You will also consider the resources that will be needed and draw up a plan for the realisation of your game - including an initial timeline - so that you can move on to Production.
 
 <a name="toc"></a>
 ## Table of Contents
@@ -18,31 +16,31 @@ During Pre-Production, you are going to hash out the most important design decis
 <a name="backlog"></a>
 ## 1. Setting Up A Backlog
 
-A central element of the development of your game is the backlog. It serves as an important project management framework, hosting all of the design documents, all tasks that need to get done, as well as a project timeline with milestones and due dates.
+A central element of your game's development is the backlog. It serves as an important project management framework, housing all the design documents, all the tasks that need to be done, and a project timeline with milestones and due dates.
 
-Because you are about to create important design documents, it makes sense to set up the backlog early. To begin with, you really only need to *create a dedicated space for your game project, with the ability to add documents and tasks as you go along* (you should start by integrating the Game Concept designed in the previous phase).
+Since you are about to create important design documents, it makes sense to set up the backlog early. To begin with, you really only need to *create a dedicated space for your game project, with the ability to add documents and tasks as you go along* (you should start by integrating the game concept you created in the previous phase).
 
 There are different project management applications that can be used for this, but my personal pick is [ClickUp](https://www.clickup.com/):
 
 ![ClickUp](Images/ClickUp.png "An example interface on ClickUp")
 
-It is extremely feature-rich and customizable (even the free version). This might make it a bit too much for your first project though, so feel free to use alternatives for your own backlog (i've heard about [Nuclino](https://nuclino.com/), [Milanote](https://milanote.com/) and others).
+It is extremely feature-rich and customizable (even the free version). This might be a bit much for your first project though, so feel free to use alternatives for your own backlog (I've heard of [Nuclino](https://nuclino.com/), [Milanote](https://milanote.com/) and others).
 
-The specifics of the backlog structure can vary drastically depending on what type of game you are making. Still, if you are going with ClickUp, [here](https://app.clickup.com/template/project/t-90040105296/d6e92afd78aea9a) you can find a template for a space dedicated to the `SLINGSHOT` project used as an example earlier.
+The specifics of the backlog structure can vary drastically depending on what kind of game you are making. However, if you are using ClickUp, you can find a template for a space dedicated to the `SLINGSHOT` project [here](https://app.clickup.com/template/project/t-90040105296/d6e92afd78aea9a).
 
 <a name="game-design-document"></a>
 ## 2. Creating A Game Design Document
 
 What follows is the creation of the most important document of this phase, the Game Design Document (GDD). It will serve as a blueprint for the entire project and as a plan for the production phase.
 
-You should create a first draft of this document, then complete and refine it in a process of iteration (see 3. [Iteration](#iteration)).  Afterwards, you will have a comprehensive document with all of the design specifications neccessary to realize the game from start to finish - even though there will most likely be adjustments made during production.
+You should create a first draft of this document, then complete and refine it in an iterative process of prototyping (see 3. [Prototyping](#prototyping)).  Afterwards, you will have a comprehensive document with all of the design specifications neccessary to realize the game from start to finish - even though there will most likely be adjustments made during production.
 
-Below you will find a - quite expansive - *example* structure for the document, as well as detailed information on specific elements. While smaller games will not require all of the sections listed, it is helpful to get an overview of what kinds of things *could* be relevant when designing your game.
+Below is a - rather detailed - *example* structure for the document, as well as detailed information on specific elements. While smaller games won't need all of the sections listed, it's helpful to get an overview of what kinds of things *could* be relevant when designing your game.
 
-But before that, here are some general notes and ideas on the creation of the Game Design Document:
-- As explained in 1. [Setting Up A Backlog](#backlog), you should integrate the GDD into your backlog. Depending on the project management tool you are using, this can enable you to reference tasks, other documents, etc. and vice versa.
-- Even with a comprehensive structure like the one below, the individual elements should be kept short and to-the-point. You can use bullet points where it makes sense.
-- Include reference images and diagrams - especially for game systems, it can help to use diagrams visualizing processes. A nice and simple web-tool for this is [draw.io](https://app.diagrams.net/).
+But before that, here are some general notes and ideas about creating the Game Design Document:
+- As explained in 1. [Setting Up a Backlog](#backlog), you should integrate the GDD into your backlog. Depending on the project management tool you use, this may allow you to reference specific parts of the GDD in tasks or other documents.
+- Even with a comprehensive structure like the one below, the individual elements should be kept short and to the point. You can use bullet-points where appropriate.
+- Include reference images and diagrams - especially for game systems, it can be helpful to use diagrams to visualize processes. A nice and simple web tool for this is [draw.io](https://app.diagrams.net/).
 
 <a name="structure"></a>
 ### 2.1 Structure
@@ -105,7 +103,7 @@ But before that, here are some general notes and ideas on the creation of the Ga
     - 12.2 Future Plans
     - 12.3 Appendices
 
-The structure of a GDD can and will change from project to project. Not every game project will need all of the elements listed above. To provide a concrete example, you can find the GDD for the `SLINGSHOT` project [here](https://share-docs.clickup.com/9004010474/d/h/8cawjza-41/20c1c286a990252). You will notice that several points have been altered or are left out to fit the scope and genre of the game.
+The structure of a GDD can and will vary from project to project. Not every game project will need all the elements listed above. To give a concrete example, you can find the GDD for the `SLINGSHOT` project [here](https://share-docs.clickup.com/9004010474/d/h/8cawjza-41/20c1c286a990252). You will notice that some items have been altered or omitted to fit the scope and genre of the project.
 
 <a name="elements"></a>
 ### 2.2 Elements
@@ -116,22 +114,22 @@ Document-related info.
 
 <a name="elements-game-concept"></a>
 #### Game Concept
-Link to previously created Game Concept.
+Link to previously created game concept.
 
 <a name="elements-gameplay-pillars"></a>
 #### Gameplay Pillars
-List 3-5 key game design pillars describing the gameplay.[^1] These should be simple adjectives, for example:
+List 3-5 key game design pillars that describe the gameplay.[^1] These should be simple adjectives, e.g:
 
 [^1]: This approach comes from Chris Gardiner's GDC talk ["Sunless Skies: A Narrative Postmortem"](https://youtu.be/_sslFBVy5Lc)
 
-1. Fast: The action should start right away. Player movement should feel quick and agile. When players die, they should be able to start over immediately.
-2. Emergent: The game should have very simple player actions and objectives, but create increasingly complex situations through the interaction of various game systems.
+1. Fast: The action should start immediately. Player movement should feel quick and agile. When players die, they should be able to start over immediately.
+2. Emergent: The game should have very simple player actions and objectives, but create increasingly complex situations through the interaction of different game systems.
 3. Challenging: It should be a real challenge to stay alive for a long time, creating an intense experience.
-4. Rewarding: Learning how the game's ecosystem works and using this knowledge to your advantage should feel extremely rewarding and addicting.
+4. Rewarding: Learning how the game's ecosystem works and using that knowledge to your advantage should feel extremely rewarding and addictive.
 
 <a name="elements-design-pillars"></a>
 #### Narrative Pillars
-List 3-5 key narrative design pillars describing the mood, atmosphere, and overall direction of the game's narrative.[^1] These can be sentences or quotes conveying a particular tone. An example from `Sunless Skies`:
+List 3-5 key narrative design pillars that describe the mood, atmosphere, and overall direction of the game's narrative.[^1] These can be sentences or quotes that convey a certain tone. An example from `Sunless Skies`:
 
 1. Stake your Claim
 2. Who are you, In the Dark?
@@ -141,23 +139,23 @@ List 3-5 key narrative design pillars describing the mood, atmosphere, and overa
 
 <a name="elements-look-and-feel"></a>
 #### Look And Feel
-Describe the game's aesthetic and game feel with precise vocabulary, for example:
+Describe the aesthetics and feel of the game using specific vocabulary, e.g:
 
 1. Retro: The game should have a low-res, retro look with abstract visuals.
-2. Surreal: The ecosystem of this game should feel very strange and dream-like, and the visuals of the game overall should reflect that.
-3. Squishy: The game should have a satisfying and organic game feel with lots of squishy animations.
+2. Surreal: The game world should feel very alien and strange, and the overall visuals of the game should reflect that.
+3. Squishy: The game should have a satisfying and organic feel with lots of squishy animations.
 
 <a name="elements-walkthrough"></a>
 #### Walkthrough
-Write a short second-preson walkthrough of an example play session. This should not be too long, but provides a good overview of the chronological *experience* of playing the game, without isolating and categorizing the individual game elements. 
+Write a short second-person walkthrough of a sample play session. This should not be too long, but should provide a good overview of the chronological *experience* of playing the game, without isolating and categorizing individual game elements.
 
 <a name="elements-story"></a>
 #### Story
-Provide a first outline of the story. Key characters and plot points - from start to finish - should be worked out now, during Pre-Production (of course things can still change later on). Detailed writing will happen in the Production phase.
+Create an initial outline of the story. Key characters and plot points - from beginning to end - should be worked out now, during pre-production (of course, things may change later). Detailed writing will take place during the production phase.
 
 <a name="elements-player-actions"></a>
 #### Player Actions
-List and describe the core player actions and how they work specifically, including movement, combat actions, etc.
+List and describe the core player actions and how they work specifically, like movement, combat actions, etc.
 
 <a name="elements-environmental-interactions"></a>
 #### Environmental Interactions
@@ -177,46 +175,47 @@ List all enemy types and their features here (this is only an example, depending
 
 <a name="elements-levels-and-objectives"></a>
 #### Levels And Objectives
-Provide and overview of the different levels, their objectives, and list level-specific gameplay mechanics. This is only an outline, the details for individual levels should be found in a seperate document created during Production.
+Provide an overview of the different levels, their objectives, and list level-specific gameplay mechanics. This is only an outline, the details for individual levels should be found in a seperate document created during Production.
 
 <a name="elements-milestones"></a>
 #### Milestones
-Production milestones may include `First Playable` (first build to give a proper idea of the gameplay, stuff like menus may still be missing), `Vertical Slice` (a short but fully playable sample of the final game that can be used to pitch to studios or investors), `Pre-Alpha` (the majority of the game's content is implemented, enabling you to initiate playtests and make decisions about what needs to get cut or improved), `Alpha` (a feature-complete build of the game, which may still lack certain elements, like art assets, and needs to be further polished and cleansed of bugs, etc.), `Beta` (a complete game build that now needs to be optimized above all else), `Gold Master` (the final game build, ready to be released to the public).[^2]
+Define the major production milestones. These may include `First Playable` (first build to give a good idea of the gameplay, things like menus may still be missing), `Vertical Slice` (a short but fully playable sample of the final game that can be used to pitch to studios or investors), `Pre-Alpha` (the majority of the game's content is implemented, so you can start playtesting and decide what needs to be cut or improved), `Alpha` (a feature-complete build of the game that may still be missing certain elements, such as art assets, and needs further polishing, bug fixing, etc.), `Beta` (a complete build of the game that now needs to be optimized above all else), and `Gold Master' (the final build of the game, ready to be released to the public).[^2]
 
 [^2]: Source: https://www.cgspectrum.com/blog/game-development-process
 
 <a name="elements-timeline"></a>
 #### Production Timeline
-A rough timeline for Production, giving the individual milestones due dates.
+Create a rough timeline for production by giving the individual milestones due dates.
 
 <a name="elements-resources"></a>
 #### Budget And Resources Required
-An overview of the budget planned for Production, as well as the resources needed (assets for example).
+Calculate your budget for for production of this game and list all of the resources needed (assets for example).
 
 <a name="elements-tools"></a>
 #### Tools And Software Used
-An overview of all tools used for the development of this game. This should include the specific editor version of Unity (or whatever game endinge is used), the chosen source control software, 3D-modeling software, etc.
+Specify what tools are being used to develop this game. This should include the specific editor version of Unity (or whatever game engine is being used), the chosen source control software, 3D modeling software, etc.
 
 <a name="prototyping"></a>
 ## 3. Prototyping
 
-With the first draft of the GDD you can initiate an interative process of testing and refining the design by creating different prototypes of the game. Here I will describe this process in detail:
+With the first draft of the GDD, you can begin the iterative process of testing and refining the design by creating different prototypes of the game:
 
 ![Image](Images/Process_PreProduction_DesignIteration.png "Prototyping as an iterative design process during Pre-Production")
 
-As you can see, the process starts when you have a design document to work with and has you going through multiple loops. You can go through as many loops as you need until you feel confident the game's design is ready for production.
+As you can see, the process begins when you have a design document to work with and takes you through several loops. You can go through as many loops as you need until you feel confident that the game's design is ready for production.
 
-In each loop, you go through the following steps:[^3]
+In each loop, you go through the following steps:
 
-[^3]: These steps are derived from Jesse Shell's book "The Art of Game Design"
-
-1. *Define risks*: Critically evaluate your design and find elements that could be problematic. Analyze the concrete risks and write them down. You might find different kinds of risks:
-   - A gameplay mechanic might not actually be fun to play.
-   - The chosen game engine might not be able to handle the desired number of objects/assets on screen at the same time.
-   - The amount of art assets that need to be created might blow up the scope of the project and cost too much time/money.
-2. *Test* these risks: Chose a fitting approach to test the risks defined before:
-   - Create a prototype for the specific gameplay mechanic.
-   - Create a prototype simulating the specific risk scenario.
-   - Create/comission an art asset and see how much time/money is needed.
-3. *Review* the results: XXX
+1. *Define Risks*: Critically evaluate your design and identify elements that may be problematic. Analyze the specific risks and write them down. You may find several different types of risks:
+   - A gameplay mechanic could actually be less fun than imagined.
+   - The chosen game engine could have trouble handling the desired number of objects/assets on-screen at the same time.
+   - The amount of art assets that need to be created could blow the scope of the project and cost too much time/money.
+2. *Create Prototype*: Choose an appropriate approach to test the risks you defined earlier:
+   - Create a prototype for a specific gameplay mechanic.
+   - Create a prototype that simulates a specific scenario.
+   - Create/commission an art asset and see how much time/money is required.
+3. *Test Prototype*: XXX
+3. *Review Results*: XXX
 4. *Refine Design*: XXX
+
+[[Back to Top]](#pre-production)
