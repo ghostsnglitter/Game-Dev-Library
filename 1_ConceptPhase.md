@@ -53,10 +53,10 @@ A Game Goncept should be less than one page in length and include the following 
 3. *Visuals and Viewpoint*:[^1] Descriptive tags for how the game will look like, such as `2D`, `Top-Down`, and `Abstract`.
 4. *Story*/*Narrative* (if applicable): A brief description of the game's narrative, including setting and core themes.
 5. *Gameplay Mechanics*: A list of the game's most important and unique gameplay mechanics. This does not need to be exhaustive, but should give an idea of how the game will be played.
-6. *Target Audience*: A description of the target audience, such as `Casual gamers of all ages`.
+6. *Target Audience*: A description of the target audience, such as `casual gamers of all ages`.
 7. *Platforms*: The platform(s) for which the game will be created.
 
-[^1]: Taken from the filter options in the Steam store. You can find descriptor tags by browsing the available options.
+[^1]: Taken from the filter options in the Steam store. You can find fitting tags by browsing the available options.
 
 Each of these elements is extremely important, not only for pitching your idea, but also for making good design choices later on. No matter how experimental and artsy your game is, your concept should include all of these elements. However, the exact format varies and should be adapted to what works best for your particular game. As an example, you can find the game concept for the `SLINGSHOT` project [here](https://share-docs.clickup.com/9004010474/p/h/8cawjza-1127/a4494a0363b6815).
 
@@ -95,7 +95,7 @@ To evaluate the game concept, answer all of the following questions (note that s
 
 > Once again, if you have trouble answering these questions, consider putting in more work into the concept or going back to the [Brainstorming](#brainstorming) step.
 
-If you were able to answer all of the questions above in a satisfying way, you are ready to move into [Pre-Production](2_PreProduction.md/#pre-production).
+If you were able to answer all of the questions above in a satisfying way, you are ready to move into [pre-production](2_PreProduction.md/#pre-production).
 
 [[Back to Top]](#concept-phase)
 
