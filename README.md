@@ -18,7 +18,7 @@ This guide collects ideas, tools and resources for solo game development.
 <a name="introduction"></a>
 ## 1. Introduction
 
-This guide is a complete documentation of my personal game development process for [GHOSTS & GLITTER](https://www.youtube.com/@ghostsnglitter). If you are an aspiring indie game developer of any skill level, this can serve as a blueprint and valuable reference. If you are a seasoned veteran, this may serve as little more than an interesting glimpse into my process - although any input from experts is welcome!
+This guide is a complete documentation of my personal game development process for [`GHOSTS & GLITTER`](https://www.youtube.com/@ghostsnglitter). If you are an aspiring indie game developer of any skill level, this can serve as a blueprint and valuable reference. If you are a seasoned veteran, this may serve as little more than an interesting glimpse into my process - although any input from experts is welcome!
 
 Specifically, this guide will cover the different phases of game development as I have defined them, with specific information on the various goals, tools used, strategies for organization, learning material, and useful resources - always with a focus on solo development.
 
