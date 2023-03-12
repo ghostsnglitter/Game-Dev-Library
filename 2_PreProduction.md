@@ -44,6 +44,13 @@ Here are some general notes and ideas about creating the game design document:
 - As explained in 1. [Setting Up A Backlog](#backlog), you should integrate the GDD into your backlog. Depending on the project management tool you use, this may allow you to reference specific parts of the GDD in tasks or other documents.
 - Even with a comprehensive structure like the one below, the individual elements should be kept short and to the point. You can use bullet-points where appropriate.
 - Include reference images and diagrams - especially for game systems, it can be helpful to use diagrams to visualize processes. A nice and simple web tool for this is [draw.io](https://app.diagrams.net/).
+- It can help to break down the design into four core components:
+
+  ![GameComponents](Images/GameComponents.png "A game broken down into four core components")
+
+  You can see that all of the components relate to each other. For example, the `Mechanics` - the processes and rules of the game, can only function with the right `Technology` - the technological means through which the player interacts with the game (could be pen & paper in case of a table-top game), are conveyed to the player through an `Aesthetic` - the look, feel, *vibe* of your game, and should be made believable and consistent within the game's `Story` - the sequence of events in your game creating a coherent experience.
+
+  But besides these *dependencies*, the model can also help *design* these components. You could ask yourself "what kind of gameplay mechanics would help convey this story?". You can ask this sort of question for any of the components and in any direction.
 
 <a name="structure"></a>
 ### 2.1 Structure
