@@ -6,7 +6,7 @@ This guide collects ideas, tools and resources for solo game development.
 ## Table of Contents
 
 > 1. [Introduction](#introduction)
-> 2. [Phases Of Game Development](#phases)
+> 2. [Phases of Game Development](#phases)
 >    - 2.1 [Concept Phase](#concept-phase)
 >    - 2.2 [Pre-Production](#pre-production)
 >    - 2.3 [Production](#production)
@@ -33,29 +33,29 @@ Before we go any further, a few important notes up front:
 [[Back to Top]](#complete-guide-for-solo-game-development)
 
 <a name="phases"></a>
-## 2. Phases Of Game Development
+## 2. Phases of Game Development
 
 This is the main part of the guide. What follows are short descriptions of the different phases of game development, with the titles linking to the detailed articles.
 
 <a name="concept-phase"></a>
 ### 2.1 [Concept Phase](1_ConceptPhase.md/#concept-phase)
 
-In the `Concept Phase`, you will funnel your many ideas into a single, clearly defined game concept and critically evaluate it. If you are satisfied, you will make the commitment to move into Pre-Production.
+In the **concept phase**, you will funnel your many ideas into a single, clearly defined game concept and critically evaluate it. If you are satisfied, you will make the commitment to move into pre-production.
 
 <a name="pre-production"></a>
 ### 2.2 [Pre-Production](2_PreProduction.md/#pre-production)
 
-During `Pre-Production`, you are going to hash out the most important design decisions. This is done through an iterative process of design and prototyping. You will also consider the resources that will be needed and draw up a plan for the realisation of your game - including an initial timeline - so that you can move on to Production.
+During **pre-production**, you are going to hash out the most important design decisions. This is done through an iterative process of design and prototyping. You will also consider the resources that will be needed and draw up a plan for the realisation of your game - including an initial timeline - so that you can move on to production.
 
 <a name="production"></a>
 ### 2.3 [Production](3_Production.md/#production)
 
-In `Production`, you will implement the specified design. This too is an interative process consisting of different stages, during which the design may need to be updated. The implementation is accompanied by consistent content preparation for public presentation of the game - with an increased commitment towards the release, which will mark the end of this phase.
+In **production**, you will implement the specified design. This too is an interative process consisting of different stages, during which the design may need to be updated. The implementation is accompanied by consistent content preparation for public presentation of the game - with an increased commitment towards the release, which will mark the end of this phase.
 
 <a name="post-release"></a>
 ### 2.4 [Post-Release](4_PostRelease.md/#post-release)
 
-The `Post-Release` period is about updating and improving the game, engaging with the community, as well as potentially developing additional content.
+The **post-release** period is about updating and improving the game, engaging with the community, as well as potentially developing additional content.
 
 [[Back to Top]](#complete-guide-for-solo-game-development)
 

@@ -2,19 +2,17 @@
 
 # Production
 
-In `Production`, you will implement the specified design. This too is an interative process consisting of different stages, during which the design may need to be updated. The implementation is accompanied by consistent content preparation for public presentation of the game - with an increased commitment towards the release, which will mark the end of this phase.
+In **production**, you will implement the specified design. This too is an interative process consisting of different stages, during which the design may need to be updated. The implementation is accompanied by consistent content preparation for public presentation of the game - with an increased commitment towards the release, which will mark the end of this phase.
 
 <a name="toc"></a>
 ## Table of Contents
 
-> 1. [Setting Up A Repository](#repository)
+> 1. [Setting up a Repository](#repository)
 >    - 1.1 [Plastic SCM](#plastic-scm)
 >    - 1.2 [Unity Project](#unity-project)
 
----
-
 <a name="repository"></a>
-## 1. Setting Up A Repository
+## 1. Setting up a Repository
 
 XXX
 
