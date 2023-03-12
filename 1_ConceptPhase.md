@@ -2,16 +2,25 @@
 
 # Concept Phase
 
-In the **concept phase**, you will funnel your many ideas into a single, clearly defined game concept and critically evaluate it. If you are satisfied, you will make the commitment to move into pre-production.
+In the Concept Phase, you will funnel your many ideas into a single, clearly defined Game Concept and critically evaluate it. If you are satisfied, you will make the commitment to move into Pre-Production.
 
 <a name="toc"></a>
 ## Table of Contents
 
+> 1. [`Overview`]()
 > 1. [Collecting Game Ideas](#collecting-ideas)
 >    - 1.1 [Brainstorming](#brainstorming)
 >    - 1.2 [Inspiration](#inspiration)
 > 2. [Creating a Game Concept](#creating-concept)
 > 3. [Evaluating the Game Concept](#evaluating-concept)
+> 5. [`Checklist`]()
+
+<a name="overview"></a>
+## 1. Overview
+
+These are the goals:
+- Taking a vague idea for a game and turning it into a valuable and complete Game Concept.
+- Documenting the result
 
 <a name="collecting-ideas"></a>
 ## 1. Collecting Game Ideas
@@ -21,7 +30,7 @@ A game idea is just that - an idea, like `2D game where you can perform a "sling
 <a name="brainstorming"></a>
 ### 1.1 Brainstorming
 
-If you plan to use this guide for your own game project, you probably already have one or more game ideas in mind. If not, a focused brainstorming session can help you collect as many game ideas as possible, or play around with different variations of the same idea. A good web application for brainstorming is [Kinopio](https://kinopio.club/):
+If you plan to use this guide for your own project, you probably already have one or more game ideas in mind. If not, a focused brainstorming session can help you find new ones, or play around with different variations of an existing one. A good web application for brainstorming is [Kinopio](https://kinopio.club/):
 
 ![Kinopio](Images/Kinopio.png "An example board on Kinopio")
 
@@ -45,7 +54,7 @@ Personally, I often can't stop my brain from constantly producing new game ideas
 <a name="creating-concept"></a>
 ## 2. Creating a Game Concept
 
-It is time to work out a proper **game concept**. This means that you need to choose a single game idea that you want to flesh out. Although the game concept will still only be a very short summary, it will lay the groundwork for everything that follows (_spoiler_, what follows is a lot of work), and I've seen indie developers create stunning art and impressive tech demos for projects that they ultimately had to cancel because they didn't have a solid concept.
+It is time to work out a proper Game Concept. This means that you need to choose a single game idea that you want to flesh out. Although the Game Concept will still only be a very short summary, it will lay the groundwork for everything that follows (_spoiler_, what follows is a lot of work), and I've seen indie developers create stunning art and impressive tech demos for projects that they ultimately had to cancel because they didn't have a solid concept.
 
 A Game Goncept should be less than one page in length and include the following elements:
 1. *Game Overview*: A short, compelling summary of the game, written like an elevator pitch.
@@ -58,22 +67,22 @@ A Game Goncept should be less than one page in length and include the following 
 
 [^1]: Taken from the filter options in the Steam store. You can find fitting tags by browsing the available options.
 
-Each of these elements is extremely important, not only for pitching your idea, but also for making good design choices later on. No matter how experimental and artsy your game is, your concept should include all of these elements. However, the exact format varies and should be adapted to what works best for your particular game. As an example, you can find the game concept for the `SLINGSHOT` project [here](https://share-docs.clickup.com/9004010474/p/h/8cawjza-1127/a4494a0363b6815).
+Each of these elements is extremely important, not only for pitching your idea, but also for making good design choices later on. No matter how experimental and artsy your game is, your concept should include all of these elements. However, the exact format varies and should be adapted to what works best for your particular game. As an example, you can find the Game Concept for the `SLINGSHOT` project [here](https://share-docs.clickup.com/9004010474/p/h/8cawjza-1127/a4494a0363b6815).
 
 If you need more help, you might want to try iterating on some creative and concise prompts to ask [ChatGPT](https://chat.openai.com/chat):
 
 ![ChatGPT_1](Images/ChatGPT_1.png "A ChatGPT response for creating a game concept")
 
-> If you have trouble turning a vague game idea into a concrete concept, you should take that as a warning sign - not that the idea is worthless, but that you should not go any further in the development process until you have a game concept. Seriously, take your time, let the idea grow in the back of your mind. Instead of dwelling on one idea, you should consider going back to the [previous step](#collecting-ideas).
+> If you have trouble turning a vague game idea into a concrete concept, you should take that as a warning sign - not that the idea is worthless, but that you should not go any further in the development process until you have a Game Concept. Seriously, take your time, let the idea grow in the back of your mind. Instead of dwelling on one idea, you should consider going back to the [previous step](#collecting-ideas).
 
 [[Back to Top]](#concept-phase)
 
 <a name="evaluating-concept"></a>
 ## 3. Evaluating the Game Concept
 
-Now that you have a game concept, there is one last evaluation to go through before moving into Pre-Production. Especially for solo game development, this can be an extremely important step, as it may be your last chance to find some critical shortcomings in your concept before wasting a lot of time on it.
+Now that you have a Game Concept, there is one last evaluation to go through before moving into Pre-Production. Especially for solo game development, this can be an extremely important step, as it may be your last chance to find some critical shortcomings in your concept before wasting a lot of time on it.
 
-To evaluate the game concept, answer all of the following questions (note that some of these questions include specific considerations for `GHOSTS & GLITTER` video content): [^2]
+To evaluate the Game Concept, answer all of the following questions (note that some of these questions include specific considerations for `GHOSTS & GLITTER` video content): [^2]
 
 [^2]: These questions are derived from Warren Spector's GDC talk ["Classic Game Postmortem: Deus Ex"](https://youtu.be/tffX3VljTtI).
 
@@ -87,9 +96,9 @@ To evaluate the game concept, answer all of the following questions (note that s
 8. How can this game be used to *showcase aspects of game development*? Consider how the game can be used to showcase particular aspects of game development in form of engaging video content. Is there a specific topic you could make an educational video about for other game devs while using this game idea as a practical example? Or what kind of video could reach a wider audience and introduce artists and art-interested people to the development process of games?
 9. How can this game be used to *analyze the unique aspects of games as an artistic medium*? Similarly, consider how the game can be used to demonstrate the unique aspects of games as an artistic medium. This could include interactivity, player agency, or emergent gameplay. Here too you should focus on avoiding gate-keeping and try to find ways to draw in as many people as possible who may not be particularly familiar with games.
 
-> Once again, if you have trouble answering these questions, consider putting in more work into the concept or going back to the [Brainstorming](#brainstorming) step.
+> Once again, if you have trouble answering these questions, consider putting in more work into the Game Concept or going back to the [Brainstorming](#brainstorming) step.
 
-If you were able to answer all of the questions above in a satisfying way, you are ready to move into [pre-production](2_PreProduction.md/#pre-production).
+If you were able to answer all of the questions above in a satisfying way, you are ready to move into [Pre-Production](2_PreProduction.md/#pre-production).
 
 [[Back to Top]](#concept-phase)
 

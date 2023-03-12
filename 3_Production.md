@@ -2,7 +2,7 @@
 
 # Production
 
-In **production**, you will implement the specified design. This too is an interative process consisting of different stages, during which the design may need to be updated. The implementation is accompanied by consistent content preparation for public presentation of the game - with an increased commitment towards the release, which will mark the end of this phase.
+In Production, you will implement the specified design. This too is an interative process consisting of different stages, during which the design may need to be updated. The implementation is accompanied by consistent content preparation for public presentation of the game - with an increased commitment towards the release, which will mark the end of this phase.
 
 <a name="toc"></a>
 ## Table of Contents
