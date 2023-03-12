@@ -7,30 +7,22 @@ In the Concept Phase, you will funnel your many ideas into a single, clearly def
 <a name="toc"></a>
 ## Table of Contents
 
-> 1. [`Overview`]()
-> 1. [Collecting Game Ideas](#collecting-ideas)
+> 1. [Finding a Game Idea](#game-idea)
 >    - 1.1 [Brainstorming](#brainstorming)
 >    - 1.2 [Inspiration](#inspiration)
 > 2. [Creating a Game Concept](#creating-concept)
 > 3. [Evaluating the Game Concept](#evaluating-concept)
-> 5. [`Checklist`]()
+> 4. [`Checklist`](#checklist)
 
-<a name="overview"></a>
-## 1. Overview
-
-These are the goals:
-- Taking a vague idea for a game and turning it into a valuable and complete Game Concept.
-- Documenting the result
-
-<a name="collecting-ideas"></a>
-## 1. Collecting Game Ideas
+<a name="game-idea"></a>
+## 1. Finding a Game Idea
 
 A game idea is just that - an idea, like `2D game where you can perform a "slingshot" move by clicking and dragging the player character`. No specifics are required at this stage.
 
 <a name="brainstorming"></a>
 ### 1.1 Brainstorming
 
-If you plan to use this guide for your own project, you probably already have one or more game ideas in mind. If not, a focused brainstorming session can help you find new ones, or play around with different variations of an existing one. A good web application for brainstorming is [Kinopio](https://kinopio.club/):
+A spontaneous, unorganized brainstorming session is a good way to capture your game idea(s) for the first time. Having it written down clears up space in your mind and helps you remember all of the details you though about. It can also be helpful for playing around with different versions of the same idea. A good web application for brainstorming is [Kinopio](https://kinopio.club/):
 
 ![Kinopio](Images/Kinopio.png "An example board on Kinopio")
 
@@ -39,8 +31,8 @@ It serves as a virtual whiteboard and can help you visually organize and connect
 <a name="inspiration"></a>
 ### 1.2 Inspiration
 
-Personally, I often can't stop my brain from constantly producing new game ideas, but sometimes everyone gets stuck. So if you need help coming up with ideas, consider the following approaches:
-- *Play games*: Start by playing a wide variety of games, from different genres and platforms. Analyze what you enjoy about each game and what makes it unique. Consider how you could incorporate these elements into your own game.
+Personally, I often can't stop my brain from constantly producing new game ideas, but sometimes I get stuck on something when trying to develop them further. The following approaches can help you find inspiration and getting unstuck:
+- *Play games*: Start by playing games, from different genres and platforms, and including games you have already played. Analyze what you enjoy about them, what exactly draws you in. What about them is unique or makes you want to keep playing?
 - *Identify a problem to solve*: Think about problems that you or others face in their daily lives. This could be anything from a lack of motivation to exercise to difficulty in learning a new language. Brainstorm ways that a game could help solve this problem.
 - *Look for inspiration in other media*: Draw inspiration from books, movies, and TV shows. Consider how you could adapt a particular story or concept into a game.
 - *Explore new technology*: Keep up-to-date with new technology and innovations in the gaming industry. Consider how new hardware, such as virtual reality headsets or haptic feedback controllers, could be used to create new gaming experiences.
@@ -101,5 +93,12 @@ To evaluate the Game Concept, answer all of the following questions (note that s
 If you were able to answer all of the questions above in a satisfying way, you are ready to move into [Pre-Production](2_PreProduction.md/#pre-production).
 
 [[Back to Top]](#concept-phase)
+
+<a name="checklist"></a>
+## 4. Checklist
+
+- [ ] Game idea defined.
+- [ ] Game Concept written.
+- [ ] Game Concept evaluated.
 
 [[Back to Main Page]](README.md/#production-guide-for-solo-game-development)
