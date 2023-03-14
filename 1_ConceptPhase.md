@@ -12,7 +12,6 @@ In the Concept Phase, you will funnel your many ideas into a single, clearly def
 >    - 1.2 [Inspiration](#inspiration)
 > 2. [Creating a Game Concept](#creating-concept)
 > 3. [Evaluating the Game Concept](#evaluating-concept)
-> 4. [`Checklist`](#checklist)
 
 <a name="game-idea"></a>
 ## 1. Finding a Game Idea
@@ -93,12 +92,5 @@ To evaluate the Game Concept, answer all of the following questions (note that s
 If you were able to answer all of the questions above in a satisfying way, you are ready to move into [Pre-Production](2_PreProduction.md/#pre-production).
 
 [[Back to Top]](#concept-phase)
-
-<a name="checklist"></a>
-## 4. Checklist
-
-- [ ] Game idea defined.
-- [ ] Game Concept written.
-- [ ] Game Concept evaluated.
 
 [[Back to Main Page]](README.md/#production-guide-for-solo-game-development)
