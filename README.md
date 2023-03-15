@@ -18,12 +18,12 @@ A complete guide that collects ideas, tools and resources for solo game developm
 >    - 3.1 [Finding Ideas](#finding-ideas)
 >    - 3.2 [What to Learn (First)](#learn)
 > 4. [Phases of Game Development](#phases)
->    - 4.1 [Concept Phase](#concept-phase)
->    - 4.2 [Pre-Production](#pre-production)
->    - 4.3 [Production](#production)
->    - 4.4 [Post-Release](#post-release)
+>    - 4.1 [`Concept Phase`](#concept-phase)
+>    - 4.2 [`Pre-Production`](#pre-production)
+>    - 4.3 [`Production`](#production)
+>    - 4.4 [`Post-Release`](#post-release)
 > 5. [Distribution](#distribution)
-> 6. [`General Resources`](#resources)
+> 6. [General Resources](#resources)
 
 <a name="introduction"></a>
 ## 1. Introduction
@@ -106,11 +106,11 @@ A game idea is just that - an idea, like `2D game where you can perform a "sling
 <a name="brainstorming"></a>
 ### 1.1 Brainstorming
 
-A spontaneous, unorganized brainstorming session is always a good way to capture your game idea(s) for the first time. Having it written down clears up space in your mind and helps you remember all of the details you though about. It can also be helpful for playing around with different versions of the same idea. A good web application for brainstorming is [Kinopio](https://kinopio.club/):
+A spontaneous, unorganized brainstorming session is always a good way to capture your game idea(s) for the first time. Having it written down clears up space in your mind and helps you remember all of the details you though about. It can also be helpful for playing around with different versions of the same idea. A good web application for brainstorming is [`Kinopio`](https://kinopio.club/):
 
 ![Kinopio](img/Kinopio.png "An example board on Kinopio")
 
-It serves as a virtual whiteboard and can help you visually organize and connect ideas. I mostly use it temporarily for mind-mapping and instead collect the most promising game ideas as notes in my [OneNote](https://www.onenote.com/?public=1) notebook (which I use for other stuff, too). This makes it easier to quickly write down ideas on my mobile phone.
+It serves as a virtual whiteboard and can help you visually organize and connect ideas. I mostly use it temporarily for mind-mapping and instead collect the most promising game ideas as notes in my [`OneNote`](https://www.onenote.com/?public=1) notebook (which I use for other stuff, too). This makes it easier to quickly write down ideas on my mobile phone.
 
 <a name="inspiration"></a>
 ### 1.2 Inspiration

@@ -28,7 +28,7 @@ A Game Goncept should be less than one page in length and include the following 
 
 Each of these elements is extremely important, not only for pitching your idea, but also for making good design choices later on. No matter how experimental and artsy your game is, your concept should include all of these elements. However, the exact format varies and should be adapted to what works best for your particular game. As an example, you can find the Game Concept for the `SLINGSHOT` project [here](https://share-docs.clickup.com/9004010474/p/h/8cawjza-1127/a4494a0363b6815).
 
-If you need more help, you might want to try iterating on some creative and concise prompts to ask [ChatGPT](https://chat.openai.com/chat):
+If you need more help, you might want to try iterating on some creative and concise prompts to ask [`ChatGPT`](https://chat.openai.com/chat):
 
 ![ChatGPT_1](../img/ChatGPT_1.png "A ChatGPT response for creating a game concept")
 

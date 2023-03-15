@@ -23,11 +23,11 @@ A crucial part of your game's development is the backlog. It serves as an import
 
 Since you are about to create important design documents, it makes sense to set up the backlog early. To begin with, you really only need to *create a dedicated space for your game project, with the ability to add documents and tasks as you go along* (you should start by integrating the Game Concept you created in the previous phase). Many of the tasks will come directly from the game design document created in the next step, and can be written as a list of features to be implemented. Of course, you may also want to create task lists for administrative work, etc.
 
-There are different project management applications that can be used for this, but my personal pick is [ClickUp](https://www.clickup.com/):
+There are different project management applications that can be used for this, but my personal pick is [`ClickUp`](https://www.clickup.com/):
 
 [![ClickUp](../img/ClickUp.png "An example look on ClickUp's interface")](https://www.google.com/imgres?imgurl=https%3A%2F%2Fclickup.com%2Fimages%2Fv2%2Fviews%2Ftask%2Fboard-view.png&imgrefurl=https%3A%2F%2Fclickup.com%2Ffeatures&tbnid=vDMXfyarHV-RuM&vet=12ahUKEwjO0bGAntT9AhWcwQIHHWXzB8IQMygDegUIARDPAQ..i&docid=kM8svJibefhcEM&w=1299&h=883&itg=1&q=clickup&ved=2ahUKEwjO0bGAntT9AhWcwQIHHWXzB8IQMygDegUIARDPAQ)
 
-It is extremely feature-rich and customizable (even the free version). This might be a bit much for your first project though, so feel free to use alternatives for your own backlog (like [Nuclino](https://nuclino.com/) and [Milanote](https://milanote.com/)).
+It is extremely feature-rich and customizable (even the free version). This might be a bit much for your first project though, so feel free to use alternatives for your own backlog (like [`Nuclino`](https://nuclino.com/) and [`Milanote`](https://milanote.com/)).
 
 The specifics of the backlog structure can vary drastically depending on what kind of game you are making. However, if you are using ClickUp, you can find a template for a space dedicated to the `SLINGSHOT` project [here](https://app.clickup.com/template/project/t-90040105296/d6e92afd78aea9a).
 
@@ -38,12 +38,12 @@ The specifics of the backlog structure can vary drastically depending on what ki
 
 What follows is the creation of the most important document of this phase, the Game Design Document (GDD). It will serve as a blueprint for the entire project, and as a plan for Production. The general *vibe* of the document is to specify the *design* of the game's elements, such as mechanics, in as much detail as possible, while leaving the rest for Production.
 
-You should create a first draft, then complete and refine it through a process of risk management (see 3. [Managing Risks](#managing-risks)). Afterwards, you will have a comprehensive document with all of the design specifications neccessary to realize the game from start to finish - even though you will probably be making further adjustments during production.
+You should create a first draft, then complete and refine it through a process of risk management (see 3. [`Managing Risks`](#managing-risks)). Afterwards, you will have a comprehensive document with all of the design specifications neccessary to realize the game from start to finish - even though you will probably be making further adjustments during production.
 
 Here are some general notes and ideas about creating the Game Design Document:
-- As explained in 1. [Setting Up A Backlog](#backlog), you should integrate the GDD into your backlog. Depending on the project management tool you use, this may allow you to reference specific parts of the GDD in tasks or other documents.
+- As explained in 1. [`Setting Up A Backlog`](#backlog), you should integrate the GDD into your backlog. Depending on the project management tool you use, this may allow you to reference specific parts of the GDD in tasks or other documents.
 - Even with a comprehensive structure like the one below, the individual elements should be kept short and to the point. You can use bullet-points where appropriate.
-- Include images. Especially for game systems, it can be helpful to use diagrams to visualize processes. A nice and simple web tool for this is [draw.io](https://app.diagrams.net/). For finding reference images and creating mood boards, [Pinterest](https://www.pinterest.de/) is actually a really good option. An amazing solution for quickly generating concept art is [DALL-E](https://labs.openai.com):
+- Include images. Especially for game systems, it can be helpful to use diagrams to visualize processes. A nice and simple web tool for this is [`draw.io`](https://app.diagrams.net/). For finding reference images and creating mood boards, [`Pinterest`](https://www.pinterest.de/) is actually a really good option. An amazing solution for quickly generating concept art is [`DALL-E`](https://labs.openai.com):
 
   ![DALL-E](../img/DALL-E.png "An example of DALL-E's capabilities in generating concept art")
 
@@ -215,7 +215,7 @@ Specify what tools are being used to develop this game. This should include the 
 <a name="managing-risks"></a>
 ## 3. Managing Risks
 
-With a first draft of the Game Design Document, you can begin an iterative process of testing and refining the design. The approach for this is characterized by finding and minimizing risks (3.1 [Risk Analysis](#risk-analysis)), more often than not through the creation of working prototypes (3.2 [Prototyping](#prototyping)).
+With a first draft of the Game Design Document, you can begin an iterative process of testing and refining the design. The approach for this is characterized by finding and minimizing risks (3.1 [`Risk Analysis`](#risk-analysis)), more often than not through the creation of working prototypes (3.2 [`Prototyping`](#prototyping)).
 
 <a name="risk-analysis"></a>
 ### 3.1 Risk Analysis
