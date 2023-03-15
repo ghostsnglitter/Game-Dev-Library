@@ -68,12 +68,16 @@ When it comes to game development, studios usually have dedicated departments fo
 
 In short: start small, get an overview of all of the different types of tasks that await you, figure out what you are good at already and what you need to improve. You want to get a *base* level of understanding and competence in all of the important fields so that you won't hit a wall unexpectedly halfway through development. Creating and releasing a *very* small and simple game is a good way to action-test your ability to go through the entire process. Under 3.1 [`Finding Ideas`](#finding-ideas), I'll provide different ideas and challenges that you can use for your very first game.
 
-A game studio might have the following departments for different areas of work: [`Design`](#design), [`Engineering`](#engineering), [`Art`](#art), [`Writing`](#writing), and [`Management`](#management). In the following sections I will describe the role of each of those departments in the development process.
+What follows is a first *overview* of the different departments a game studio might have: [`Design`](#design), [`Engineering`](#engineering), [`Art`](#art), [`Writing`](#writing), and [`Management`](#management). In the following sections I will describe the role of each of those departments in the development process.
 
 <a name="design"></a>
 ### 2.1 Design
 
-Most of the work the design department does happens early on, during the [`Concept Phase`](#concept-phase) and [`Pre-Production`](#pre-production). This is where the main design of the game with 
+Most of the work the design department does happens early on, during the [`Concept Phase`](#concept-phase) and [`Pre-Production`](#pre-production). This is where the main design of the game with its core gameplay mechanic gets hashed out. The different areas of design include:
+
+- Game Design
+- Story Design
+- Level Design
 
 <a name="engineering"></a>
 ### 2.2 Engineering
