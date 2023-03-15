@@ -28,16 +28,16 @@ A complete guide that collects ideas, tools and resources for solo game developm
 <a name="introduction"></a>
 ## 1. Introduction
 
-This guide aims to provide a flexible tool for getting started on game development. It will clarify in detail what is necessary to produce a game from start to finish and distribute it, help you create your own workflow and collects unique and unconventional resources for improving your creative process.
+This guide aims to provide a flexible tool for getting started with game development. It will explain in detail what it is necessary to produce and distribute a game from start to finish, help you create your own workflow, and collects unique and unconventional resources to improve your creative process.
 
-Specifically, this guide will cover the different areas of responsibility that you'll be covering, as well as the individual phases of game development, with specific information on the various goals, tools used, strategies for organization, and learning material - always with a focus on *solo* development.
+Specifically, this guide will cover the different areas of responsibility you'll cover, as well as the different phases of game development, with specific information on the different goals, tools used, organisational strategies and learning materials - always with a focus on *solo* development.
 
 <a name="purpose"></a>
 ### 1.1 Purpose
 
-If you are an aspiring indie game developer of any skill level, this can serve as a blueprint or valuable reference. If you are a seasoned veteran, this may serve as little more than an interesting glimpse into my process for [`GHOSTS & GLITTER`](https://www.youtube.com/@ghostsnglitter) - although any input from experts is welcome!
+If you are an aspiring indie game developer of any skill level, this may serve as a blueprint or valuable reference. If you are a seasoned veteran, this may be little more than an interesting glimpse into my process for [`GHOSTS & GLITTER`](https://www.youtube.com/@ghostsnglitter) - although any input from experts is welcome!
 
-Because this process is still WIP, I'm constantly trying to develop it further, always with these principles in mind:
+I'm still trying to develop this process too, always with these principles in mind:
 
 ```
 Maximize
@@ -64,12 +64,16 @@ Before we go any further, a few important notes up front:
 <a name="responsibilities"></a>
 ## 2. A Range of Responsibilities
 
-XXX
+When it comes to game development, studios usually have dedicated departments for various aspects of the game, whereas you as a solo creator will have to cover all of those areas yourself. This didn't really hit me until after i started out, but the challenges become evident pretty quickly - game design, level design, writing, programming, asset creation, project management, etc. all become your responibility. How can you manage that, especially when you still need to learn the ropes of some or even all of those skills?
+
+In short: start small, get an overview of all of the different types of tasks that await you, figure out what you are good at already and what you need to improve. You want to get a *base* level of understanding and competence in all of the important fields so that you won't hit a wall unexpectedly halfway through development. Creating and releasing a *very* small and simple game is a good way to action-test your ability to go through the entire process. Under 3.1 [`Finding Ideas`](#finding-ideas), I'll provide different ideas and challenges that you can use for your very first game.
+
+A game studio might have the following departments for different areas of work: [`Design`](#design), [`Engineering`](#engineering), [`Art`](#art), [`Writing`](#writing), and [`Management`](#management). In the following sections I will describe the role of each of those departments in the development process.
 
 <a name="design"></a>
 ### 2.1 Design
 
-XXX
+Most of the work the design department does happens early on, during the [`Concept Phase`](#concept-phase) and [`Pre-Production`](#pre-production). This is where the main design of the game with 
 
 <a name="engineering"></a>
 ### 2.2 Engineering
