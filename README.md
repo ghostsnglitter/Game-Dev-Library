@@ -150,6 +150,11 @@ Personally, I often can't stop my brain from constantly producing new game ideas
 - *Collaborate with others*: Brainstorm with others and collaborate on game ideas. Consider working with people from different backgrounds and skill sets, such as artists or programmers.
 - *Think about your target audience*: Consider who you want to make games for and what they would enjoy. Think about the age group, interests, and gaming experience of your target audience.
 
+<a name="challenges"></a>
+#### 3.1.3 Challenges
+
+XXX
+
 <a name="learn"></a>
 ### 3.2 What to Learn (First)
 
