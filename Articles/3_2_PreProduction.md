@@ -148,7 +148,7 @@ List 3-5 key game design pillars that describe the gameplay.[^2] These should be
 
 <a name="elements-design-pillars"></a>
 #### Narrative Pillars
-List 3-5 key narrative design pillars that describe the mood, atmosphere, and overall direction of the game's narrative.[^1] These can be sentences or quotes that convey a certain tone. An example from `Sunless Skies`:
+List 3-5 key narrative design pillars that describe the mood, atmosphere, and overall direction of the game's narrative.[^2] These can be sentences or quotes that convey a certain tone. An example from `Sunless Skies`:
 
 1. Stake your Claim
 2. Who are you, In the Dark?
