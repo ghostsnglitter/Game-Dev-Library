@@ -44,17 +44,20 @@ You should create a first draft, then complete and refine it through a process o
 Here are some general notes and ideas about creating the Game Design Document:
 - As explained in 1. [`Setting Up A Backlog`](#backlog), you should integrate the GDD into your backlog. Depending on the project management tool you use, this may allow you to reference specific parts of the GDD in tasks or other documents.
 - Even with a comprehensive structure like the one below, the individual elements should be kept short and to the point. You can use bullet-points where appropriate.
-- Include images. Especially for game systems, it can be helpful to use diagrams to visualize processes. A nice and simple web tool for this is [`draw.io`](https://app.diagrams.net/). For finding reference images and creating mood boards, [`Pinterest`](https://www.pinterest.de/) is actually a really good option. An amazing solution for quickly generating concept art is [`DALL-E`](https://labs.openai.com):
+- Include diagrams. Especially for game systems, it can be helpful to use diagrams to visualize processes. A nice and simple web tool for this is [`draw.io`](https://app.diagrams.net/).
+- Include reference images. For finding reference images and creating mood boards, [`Pinterest`](https://www.pinterest.de/) is actually a really good option. An amazing solution for quickly generating concept art is [`DALL-E`](https://labs.openai.com):
 
   ![DALL-E](../Images/DALL-E.png "An example of DALL-E's capabilities in generating concept art")
 
-- It can help to break down the design into four core components:
+- It can help to break down the design into four core components:[^1]
 
   ![GameComponents](../Images/GameComponents.png "A game broken down into four core components")
 
-  You can see that all of the components relate to each other. For example, the `Mechanics` - the processes and rules of the game, can only function with the right `Technology` - the technological means through which the player interacts with the game (could be pen & paper in case of a table-top game), are conveyed to the player through an `Aesthetic` - the look, feel, *vibe* of your game, and should be made believable and consistent within the game's `Story` - the sequence of events in your game creating a coherent experience.
+  You can see that all of the components relate to each other. For example, the `Mechanics` - the procedures and rules of the game, can only function with the right `Technology` - the technological means through which the player interacts with the game (could be pen & paper in case of a table-top game), are conveyed to the player through an `Aesthetic` - the look, feel, *vibe* of your game, and should be made believable and consistent within the game's `Story` - the sequence of events in your game creating a coherent experience.
 
   But besides these *dependencies*, the model can also help *design* these components. You could ask yourself "what kind of gameplay mechanics would help convey this story?". You can ask this sort of question for any of the components and in any direction.
+
+[^1]: Jesse Schell, *The Art of Game Design: A Book of Lenses*, (Burlington: Elsevier Inc., 2008), 41-43.
 
 <a name="structure"></a>
 ### 2.1 Structure
@@ -134,9 +137,9 @@ Link to previously created Game Concept.
 
 <a name="elements-gameplay-pillars"></a>
 #### Gameplay Pillars
-List 3-5 key game design pillars that describe the gameplay.[^1] These should be simple adjectives, e.g:
+List 3-5 key game design pillars that describe the gameplay.[^2] These should be simple adjectives, e.g:
 
-[^1]: This approach comes from Chris Gardiner's GDC talk ["Sunless Skies: A Narrative Postmortem"](https://youtu.be/_sslFBVy5Lc)
+[^2]: This approach comes from Chris Gardiner's GDC talk ["Sunless Skies: A Narrative Postmortem"](https://youtu.be/_sslFBVy5Lc)
 
 1. Fast: The action should start immediately. Player movement should feel quick and agile. When players die, they should be able to start over immediately.
 2. Emergent: The game should have very simple player actions and objectives, but create increasingly complex situations through the interaction of different game systems.
@@ -195,9 +198,9 @@ Provide an overview of the different levels, their objectives, and list level-sp
 
 <a name="elements-milestones"></a>
 #### Milestones
-Define the major milestones for Production. These may include `First Playable` (first build to give a good idea of the gameplay, things like menus may still be missing), `Vertical Slice` (a short but fully playable sample of the final game that can be used to pitch to studios or investors), `Pre-Alpha` (the majority of the game's content is implemented, so you can start playtesting and decide what needs to be cut or improved), `Alpha` (a feature-complete build of the game that may still be missing certain elements, such as art assets, and needs further polishing, bug fixing, etc.), `Beta` (a complete build of the game that now needs to be optimized above all else), and `Gold Master' (the final build of the game, ready to be released to the public).[^2]
+Define the major milestones for Production. These may include `First Playable` (first build to give a good idea of the gameplay, things like menus may still be missing), `Vertical Slice` (a short but fully playable sample of the final game that can be used to pitch to studios or investors), `Pre-Alpha` (the majority of the game's content is implemented, so you can start playtesting and decide what needs to be cut or improved), `Alpha` (a feature-complete build of the game that may still be missing certain elements, such as art assets, and needs further polishing, bug fixing, etc.), `Beta` (a complete build of the game that now needs to be optimized above all else), and `Gold Master' (the final build of the game, ready to be released to the public).[^3]
 
-[^2]: Taken from the CG Spectrum article ["How video games are made: the game development process"](https://www.cgspectrum.com/blog/game-development-process) by Nadia Stefyn.
+[^3]: Taken from the CG Spectrum article ["How video games are made: the game development process"](https://www.cgspectrum.com/blog/game-development-process) by Nadia Stefyn.
 
 <a name="elements-timeline"></a>
 #### Production Timeline
