@@ -19,17 +19,13 @@
 >    - 1.4 [Writing](#writing)
 >    - 1.5 [Management](#management)
 > 2. [What to Learn (First)](#learn)
-> 3. [Finding Ideas](#finding-ideas)
->    - 3.1 [Brainstorming](#brainstorming)
->    - 3.2 [Inspiration](#inspiration)
->    - 3.3 [Challenges](#challenges)
 
 <a name="responsibilities"></a>
 ## 1. A Range of Responsibilities
 
 Making and selling games requires expertise in a number of different fields. Studios usually have dedicated departments for different aspects of the game, whereas you as a solo creator will have to cover all of those areas yourself. This didn't really hit me until after i started out, but the challenges quickly become apparent - game design, level design, writing, programming, asset creation, project management, etc., you're responsible for all of it. How do you manage that, especially when you are still learning the ropes in some or even all of those disciplines?
 
-In short: start small, get an overview of all of the different types of tasks that await you, figure out what you are good at already and where you have gaps of knowledge. You want to get a *basic* level of understanding and competence in all of the important fields so that you don't unexpectedly hit a wall halfway through development. Building and releasing a *very* small and simple game is a good way to action-test your ability to go through the entire process. In section 3.1 [`Finding Ideas`](#finding-ideas), I'll provide different ideas and challenges that you can use for your very first game.
+In short: start small, get an overview of all of the different types of tasks that await you, figure out what you are good at already and where you have gaps of knowledge. You want to get a *basic* level of understanding and competence in all of the important fields so that you don't unexpectedly hit a wall halfway through development. Building and releasing a *very* small and simple game is a good way to action-test your ability to go through the entire process. In the article for the [`Concept Phase`](3_1_ConceptPhase.md/#concept-phase) under [`Finding Ideas`](#finding-ideas), I'll provide different ideas and challenges that you can use for your very first game.
 
 What follows is a first *overview* of the different departments a game studio might have: [`Design`](#design), [`Engineering`](#engineering), [`Art`](#art), [`Writing`](#writing), and [`Management`](#management). I will describe the role of each of those departments in the development process, as well as what that means for solo development (I will go into detail later on in the guide).
 
@@ -84,40 +80,6 @@ When working solo, even seemingly simple games can fall into production-hell if 
 ## 2. What to Learn (First)
 
 So, there you go - it's a lot. And a common question to ask yourself at this point is, what should I learn *first*? I could rank the different aspects of game development described above in order of importance, but honestly, they're all equally important.
-
-[[Back to Top]](#getting-started)
-
-<a name="finding-ideas"></a>
-## 3. Finding Ideas
-
-A game idea is just that - an idea, like `2D game where you can perform a "slingshot" move by clicking and dragging the player character`. No specifics are required at this stage.
-
-<a name="brainstorming"></a>
-### 3.1 Brainstorming
-
-A spontaneous, unorganized brainstorming session is always a good way to capture ideas for the first time. You can just write them down without too much thought and, like planting a seed, let them grow into all kinds of directions. Having your ideas written down clears up space in your mind and helps you remember all of the details you thought of. It can also be helpful for playing around with different versions of the same idea. A good web application for brainstorming is [`Kinopio`](https://kinopio.club/):
-
-![Kinopio](../Images/Kinopio.png "An example board on Kinopio")
-
-It serves as a virtual whiteboard and can help you visually organize and connect ideas. I mostly use it for mind-mapping ideas in their earliest stages, while also using [`OneNote`](https://www.onenote.com/?public=1) to quickly write down new ideas on my phone or PC.
-
-<a name="inspiration"></a>
-### 3.2 Inspiration
-
-Personally, I often can't stop my brain from constantly producing new game ideas, but sometimes I get stuck on something when trying to develop them further. The following approaches can help you find inspiration and getting unstuck:
-- *Play games*: From different genres and platforms, and including games you have already played. Find out what you enjoy about them, what exactly draws you in, how did they manage to connect to you on a personal level. What about them is unique or makes you want to keep playing?
-- *Identify a problem to solve*: Think about problems that you or others face in their daily lives. This could be anything from a lack of motivation to exercise to difficulty in learning a new language. Brainstorm ways that a game could help solve this problem.
-- *Look for inspiration in other media*: Draw inspiration from books, movies, and TV shows. Consider how you could adapt a particular story or concept into a game.
-- *Explore new technology*: Keep up-to-date with new technology and innovations in the gaming industry. Consider how new hardware, such as virtual reality headsets or haptic feedback controllers, could be used to create new gaming experiences.
-- *Consider your own passions and interests*: Think about your own hobbies and interests. Consider how you could incorporate these into a game. For example, if you enjoy hiking, you could create a game that simulates a hiking adventure.
-- *Combine different ideas*: Try combining different ideas to create something unique. For example, you could combine a puzzle game with a platformer or a survival game with a city-builder.
-- *Collaborate with others*: Brainstorm with others and collaborate on game ideas. Consider working with people from different backgrounds and skill sets, such as artists or programmers.
-- *Think about your target audience*: Consider who you want to make games for and what they would enjoy. Think about the age group, interests, and gaming experience of your target audience.
-
-<a name="challenges"></a>
-### 3.3 Challenges
-
-XXX
 
 [[Back to Top]](#getting-started)
 
