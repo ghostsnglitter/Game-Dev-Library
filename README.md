@@ -14,8 +14,8 @@ A complete guide that collects ideas, tools and resources for solo game developm
 >    - 3.2 [Pre-Production](#pre-production)
 >    - 3.3 [Production](#production)
 >    - 3.4 [Post-Release](#post-release)
-> 4. [Distribution](#distribution)
-> 5. [General Resources](#resources)
+> 4. [`Distribution`](#distribution)
+> 5. [`General Resources`](#resources)
 
 <a name="introduction"></a>
 ## 1. Introduction
