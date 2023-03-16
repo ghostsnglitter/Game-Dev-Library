@@ -1,19 +1,18 @@
 [[Back to Main Page]](../README.md/#production-guide-for-solo-game-development)
 
-# Post-Release
+<a name="post-release"></a>
+# [3.4] Post-Release
 
 The Post-Release period is about updating and improving the game, engaging with the community, as well as potentially developing additional content.
 
 <a name="toc"></a>
 ## Table of Contents
 
-> 1. [Content](#)
-> 2. [Content](#)
-> 3. [Content](#)
-> 4. [Content](#)
+> 1. [XXX](#xxx)
+> 2. [XXX](#xxx)
 
-<a name="content-1"></a>
-## 1. Content 1
+<a name="content"></a>
+## 1. Content
 
 XXX
 

@@ -1,6 +1,7 @@
 [[Back to Main Page]](../README.md/#production-guide-for-solo-game-development)
 
-# Concept Phase
+<a name="concept-phase"></a>
+# [3.1] Concept Phase
 
 In the Concept Phase, you will funnel your many ideas into a single, clearly defined Game Concept and critically evaluate it. If you are satisfied, you will make the commitment to move into Pre-Production.
 
@@ -13,7 +14,7 @@ In the Concept Phase, you will funnel your many ideas into a single, clearly def
 <a name="creating-concept"></a>
 ## 1. Creating a Game Concept
 
-It is time to work out a proper Game Concept. This means that you need to choose a single game idea that you want to flesh out. Although the Game Concept will still only be a very short summary, it will lay the groundwork for everything that follows (_spoiler_, what follows is a lot of work), and I've seen indie developers create stunning art and impressive tech demos for projects that they ultimately had to cancel because they didn't have a solid concept.
+It is time to work out a proper Game Concept. This means that you need to choose a single game idea that you want to flesh out (see [`Finding Ideas`](2_GettingStarted.md/#finding-ideas) in the article [`Getting Started`](2_GettingStarted.md)). Although the Game Concept will still only be a very short summary, it will lay the groundwork for everything that follows (_spoiler_, what follows is a lot of work), and I've seen indie developers create stunning art and impressive tech demos for projects that they ultimately had to cancel because they didn't have a solid concept.
 
 A Game Goncept should be less than one page in length and include the following elements:
 1. *Game Overview*: A short, compelling summary of the game, written like an elevator pitch.
@@ -30,9 +31,9 @@ Each of these elements is extremely important, not only for pitching your idea, 
 
 If you need more help, you might want to try iterating on some creative and concise prompts to ask [`ChatGPT`](https://chat.openai.com/chat):
 
-![ChatGPT_1](../img/ChatGPT_1.png "A ChatGPT response for creating a game concept")
+![ChatGPT_1](../Images/ChatGPT_1.png "A ChatGPT response for creating a game concept")
 
-> If you have trouble turning a vague game idea into a concrete concept, you should take that as a warning sign - not that the idea is worthless, but that you should not go any further in the development process until you have a Game Concept. Seriously, take your time, let the idea grow in the back of your mind. Instead of dwelling on one idea, you should consider going back to the [previous step](#collecting-ideas).
+> If you have trouble turning a vague game idea into a concrete concept, you should take that as a warning sign - not that the idea is worthless, but that you should not go any further in the development process until you have a Game Concept. Seriously, take your time, let the idea grow in the back of your mind. Instead of dwelling on one idea, you should consider going back to the previous step in order to find new ones (see [`Finding Ideas`](2_GettingStarted.md/#finding-ideas) in the article [`Getting Started`](2_GettingStarted.md)).
 
 [[Back to Top]](#concept-phase)
 
@@ -55,9 +56,9 @@ To evaluate the Game Concept, answer all of the following questions (note that s
 8. How can this game be used to *showcase aspects of game development*? Consider how the game can be used to showcase particular aspects of game development in form of engaging video content. Is there a specific topic you could make an educational video about for other game devs while using this game idea as a practical example? Or what kind of video could reach a wider audience and introduce artists and art-interested people to the development process of games?
 9. How can this game be used to *analyze the unique aspects of games as an artistic medium*? Similarly, consider how the game can be used to demonstrate the unique aspects of games as an artistic medium. This could include interactivity, player agency, or emergent gameplay. Here too you should focus on avoiding gate-keeping and try to find ways to draw in as many people as possible who may not be particularly familiar with games.
 
-> Once again, if you have trouble answering these questions, consider putting in more work into the Game Concept or going back to the [Brainstorming](#brainstorming) step.
+> Once again, if you have trouble answering these questions, consider putting in more work into the Game Concept or going back to a previous step (see [`Finding Ideas`](2_GettingStarted.md/#finding-ideas) in the article [`Getting Started`](2_GettingStarted.md)).
 
-If you were able to answer all of the questions above in a satisfying way, you are ready to move into [Pre-Production](2_PreProduction.md/#pre-production).
+If you were able to answer all of the questions above in a satisfying way, you are ready to move into [`Pre-Production`](3_2_PreProduction.md/#pre-production).
 
 [[Back to Top]](#concept-phase)
 

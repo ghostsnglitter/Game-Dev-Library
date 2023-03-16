@@ -1,6 +1,7 @@
 [[Back to Main Page]](../README.md/#production-guide-for-solo-game-development)
 
-# Pre-Production
+<a name="pre-production"></a>
+# [3.2] Pre-Production
 
 During Pre-Production, you are going to hash out the most important design decisions. This is done through an iterative process of design and prototyping. You will also consider the resources that will be needed and draw up a plan for the realisation of your game - including an initial timeline - so that you can move on to Production.
 
@@ -25,7 +26,7 @@ Since you are about to create important design documents, it makes sense to set 
 
 There are different project management applications that can be used for this, but my personal pick is [`ClickUp`](https://www.clickup.com/):
 
-[![ClickUp](../img/ClickUp.png "An example look on ClickUp's interface")](https://www.google.com/imgres?imgurl=https%3A%2F%2Fclickup.com%2Fimages%2Fv2%2Fviews%2Ftask%2Fboard-view.png&imgrefurl=https%3A%2F%2Fclickup.com%2Ffeatures&tbnid=vDMXfyarHV-RuM&vet=12ahUKEwjO0bGAntT9AhWcwQIHHWXzB8IQMygDegUIARDPAQ..i&docid=kM8svJibefhcEM&w=1299&h=883&itg=1&q=clickup&ved=2ahUKEwjO0bGAntT9AhWcwQIHHWXzB8IQMygDegUIARDPAQ)
+[![ClickUp](../Images/ClickUp.png "An example look on ClickUp's interface")](https://www.google.com/imgres?imgurl=https%3A%2F%2Fclickup.com%2Fimages%2Fv2%2Fviews%2Ftask%2Fboard-view.png&imgrefurl=https%3A%2F%2Fclickup.com%2Ffeatures&tbnid=vDMXfyarHV-RuM&vet=12ahUKEwjO0bGAntT9AhWcwQIHHWXzB8IQMygDegUIARDPAQ..i&docid=kM8svJibefhcEM&w=1299&h=883&itg=1&q=clickup&ved=2ahUKEwjO0bGAntT9AhWcwQIHHWXzB8IQMygDegUIARDPAQ)
 
 It is extremely feature-rich and customizable (even the free version). This might be a bit much for your first project though, so feel free to use alternatives for your own backlog (like [`Nuclino`](https://nuclino.com/) and [`Milanote`](https://milanote.com/)).
 
@@ -45,11 +46,11 @@ Here are some general notes and ideas about creating the Game Design Document:
 - Even with a comprehensive structure like the one below, the individual elements should be kept short and to the point. You can use bullet-points where appropriate.
 - Include images. Especially for game systems, it can be helpful to use diagrams to visualize processes. A nice and simple web tool for this is [`draw.io`](https://app.diagrams.net/). For finding reference images and creating mood boards, [`Pinterest`](https://www.pinterest.de/) is actually a really good option. An amazing solution for quickly generating concept art is [`DALL-E`](https://labs.openai.com):
 
-  ![DALL-E](../img/DALL-E.png "An example of DALL-E's capabilities in generating concept art")
+  ![DALL-E](../Images/DALL-E.png "An example of DALL-E's capabilities in generating concept art")
 
 - It can help to break down the design into four core components:
 
-  ![GameComponents](../img/GameComponents.png "A game broken down into four core components")
+  ![GameComponents](../Images/GameComponents.png "A game broken down into four core components")
 
   You can see that all of the components relate to each other. For example, the `Mechanics` - the processes and rules of the game, can only function with the right `Technology` - the technological means through which the player interacts with the game (could be pen & paper in case of a table-top game), are conveyed to the player through an `Aesthetic` - the look, feel, *vibe* of your game, and should be made believable and consistent within the game's `Story` - the sequence of events in your game creating a coherent experience.
 
@@ -215,7 +216,7 @@ Specify what tools are being used to develop this game. This should include the 
 <a name="managing-risks"></a>
 ## 3. Managing Risks
 
-With a first draft of the Game Design Document, you can begin an iterative process of testing and refining the design. The approach for this is characterized by finding and minimizing risks (3.1 [`Risk Analysis`](#risk-analysis)), more often than not through the creation of working prototypes (3.2 [`Prototyping`](#prototyping)).
+With a first draft of the Game Design Document, you can begin an iterative process of testing and refining the design. The approach for this is characterized by finding and minimizing risks (see 3.1 [`Risk Analysis`](#risk-analysis)), more often than not through the creation of working prototypes (see 3.2 [`Prototyping`](#prototyping)).
 
 <a name="risk-analysis"></a>
 ### 3.1 Risk Analysis

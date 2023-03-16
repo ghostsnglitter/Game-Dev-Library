@@ -1,6 +1,7 @@
 [[Back to Main Page]](../README.md/#production-guide-for-solo-game-development)
 
-# Production
+<a name="production"></a>
+# [3.3] Production
 
 In Production, you will implement the specified design. This too is an interative process consisting of different stages, during which the design may need to be updated. The implementation is accompanied by consistent content preparation for public presentation of the game - with an increased commitment towards the release, which will mark the end of this phase.
 
