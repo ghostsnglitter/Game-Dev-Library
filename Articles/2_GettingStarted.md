@@ -25,14 +25,14 @@
 
 Making and selling games requires expertise in a number of different fields. Studios usually have dedicated departments for different aspects of the game, whereas you as a solo creator will have to cover all of those areas yourself. This didn't really hit me until after i started out, but the challenges quickly become apparent - game design, level design, writing, programming, asset creation, project management, etc., you're responsible for all of it. How do you manage that, especially when you are still learning the ropes in some or even all of those disciplines?
 
-In short: start small, get an overview of all of the different types of tasks that await you, figure out what you are good at already and where you have gaps of knowledge. You want to get a *basic* level of understanding and competence in all of the important fields so that you don't unexpectedly hit a wall halfway through development. Building and releasing a *very* small and simple game is a good way to action-test your ability to go through the entire process. In the article for the [`Concept Phase`](3_1_ConceptPhase.md/#concept-phase) under [`Finding Ideas`](#finding-ideas), I'll provide different ideas and challenges that you can use for your very first game.
+In short: start small, get an overview of all of the different types of tasks that await you, figure out what you are good at already and where you have gaps of knowledge. You want to get a *basic* level of understanding and competence in all of the important fields so that you don't unexpectedly hit a wall halfway through development. Building and releasing a *very* small and simple game is a good way to action-test your ability to go through the entire process. In the article for the [`Concept Phase`](3_1_ConceptPhase.md) under [`Finding Ideas`](#finding-ideas), I'll provide different ideas and challenges that you can use for your very first game.
 
 What follows is a first *overview* of the different departments a game studio might have: [`Design`](#design), [`Engineering`](#engineering), [`Art`](#art), [`Writing`](#writing), and [`Management`](#management). I will describe the role of each of those departments in the development process, as well as what that means for solo development (I will go into detail later on in the guide).
 
 <a name="design"></a>
 ### 1.1 Design
 
-A lot of the work the design department does happens early on, during the [`Concept Phase`](2_ConceptPhase.md/#concept-phase) and [`Pre-Production`](3_PreProduction.md/#pre-production), which is where the main design of the game is specified. However, where other members of the development team will often come and go, the designer(s) are usually a more persistent presence, monitoring the whole production to keep everything in line with the game's vision.[^2]
+A lot of the work the design department does happens early on, during the [`Concept Phase`](2_ConceptPhase.md) and [`Pre-Production`](3_PreProduction.md), which is where the main design of the game is specified. However, where other members of the development team will often come and go, the designer(s) are usually a more persistent presence, monitoring the whole production to keep everything in line with the game's vision.[^2]
 
 [^2]: Kramarzewski, Adam, and Ennio De Nucciy, *Practical Game Design* (Birmingham: Packt Publishing Ltd., 2018), 11
 
@@ -56,14 +56,14 @@ When not coming from a programming background, this part of solo game developmen
 <a name="art"></a>
 ### 1.3 Art
 
-The art department creates all of the game's assets - 2D-art and UI-elements, 3D-models for objects, environment, and characters, as well as sound effects and music. This can take a lot of time and the work is usually distributed to many different artists working in parallel throughout the entire development of the game, which only underlines the importance of starting into [`Production`](3_3_Production.md/#production) with a coherent vision and solid design documentation.
+The art department creates all of the game's assets - 2D-art and UI-elements, 3D-models for objects, environment, and characters, as well as sound effects and music. This can take a lot of time and the work is usually distributed to many different artists working in parallel throughout the entire development of the game, which only underlines the importance of starting into [`Production`](3_3_Production.md) with a coherent vision and solid design documentation.
 
 Depending on your background, this can be a massive challenge for creating your first game(s) solo. Fortunately, there are plenty of helpful resources and strategies (covered in this guide) for reducing the workload, including the usage of third-party assets (an *unbelievably* important part of solo development that should not be looked down on or immediately disregarded as "asset-flipping").
 
 <a name="writing"></a>
 ### 1.4 Writing
 
-If a game has a story, it usually has dedicated writers. Some studios turn all of the developers into writers for lots of individual storylines, while others comission remote-working freelance writers. Usually, for small to mid-sized teams, there are only a few or just one writer (often the lead designer or narrative designer). Either way, the details of the story and the actual used texts come *after* the overall concept and narrative design have been specified in [`Pre-Production`](3_2_PreProduction.md/#pre-production).
+If a game has a story, it usually has dedicated writers. Some studios turn all of the developers into writers for lots of individual storylines, while others comission remote-working freelance writers. Usually, for small to mid-sized teams, there are only a few or just one writer (often the lead designer or narrative designer). Either way, the details of the story and the actual used texts come *after* the overall concept and narrative design have been specified in [`Pre-Production`](3_2_PreProduction.md).
 
 Many solo developers gladly take on the role of the writer, as their games are often centered around strong narrative ideas. However, it is important to consider what you're getting into before writing complex storylines (for example, dialogue systems can be quite complicated to implement).
 

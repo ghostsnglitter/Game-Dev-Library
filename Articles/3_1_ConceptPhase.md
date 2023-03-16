@@ -12,6 +12,7 @@ In the Concept Phase, you will funnel your many ideas into a single, clearly def
 >    - 1.1 [Brainstorming](#brainstorming)
 >    - 1.2 [Inspiration](#inspiration)
 >    - 1.3 [Challenges](#challenges)
+>    - 1.4 [Game Jams](#game-jams)
 > 2. [Creating a Game Concept](#creating-concept)
 > 3. [Evaluating the Game Concept](#evaluating-concept)
 
@@ -44,6 +45,11 @@ Personally, I often can't stop my brain from constantly producing new game ideas
 
 <a name="challenges"></a>
 ### 1.3 Challenges
+
+XXX
+
+<a name="game-jams"></a>
+### 1.4 Game Jams
 
 XXX
 
@@ -96,7 +102,7 @@ To evaluate the Game Concept, answer all of the following questions (note that s
 
 > Once again, if you have trouble answering these questions, consider putting in more work into the Game Concept or going back to the first step, [`Finding Ideas`](#finding-ideas).
 
-If you were able to answer all of the questions above in a satisfying way, you are ready to move into [`Pre-Production`](3_2_PreProduction.md/#pre-production).
+If you were able to answer all of the questions above in a satisfying way, you are ready to move into [`Pre-Production`](3_2_PreProduction.md).
 
 [[Back to Top]](#concept-phase)
 

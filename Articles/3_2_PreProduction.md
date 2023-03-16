@@ -37,7 +37,7 @@ The specifics of the backlog structure can vary drastically depending on what ki
 <a name="game-design-document"></a>
 ## 2. Creating a Game Design Document
 
-What follows is the creation of the most important document of this phase, the Game Design Document (GDD). It will serve as a blueprint for the entire project, and as a plan for Production. The general *vibe* of the document is to specify the *design* of the game's elements, such as mechanics, in as much detail as possible, while leaving the rest for Production.
+What follows is the creation of the most important document of this phase, the Game Design Document (GDD). It will serve as a blueprint for the entire project, and as a plan for [`Production`](3_3_Production.md). The general *vibe* of the document is to specify the *design* of the game's elements, such as mechanics, in as much detail as possible, while leaving the rest for Production.
 
 You should create a first draft, then complete and refine it through a process of risk management (see 3. [`Managing Risks`](#managing-risks)). Afterwards, you will have a comprehensive document with all of the design specifications neccessary to realize the game from start to finish - even though you will probably be making further adjustments during production.
 
