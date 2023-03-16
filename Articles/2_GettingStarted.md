@@ -34,7 +34,7 @@ What follows is a first *overview* of the different departments a game studio mi
 
 A lot of the work the design department does happens early on, during the [`Concept Phase`](2_ConceptPhase.md) and [`Pre-Production`](3_PreProduction.md), which is where the main design of the game is specified. However, where other members of the development team will often come and go, the designer(s) are usually a more persistent presence, monitoring the whole production to keep everything in line with the game's vision.[^2]
 
-[^2]: Kramarzewski, Adam, and Ennio De Nucciy, *Practical Game Design* (Birmingham: Packt Publishing Ltd., 2018), 11
+[^2]: Adam Kramarzewski and Ennio De Nucci, *Practical Game Design* (Birmingham: Packt Publishing Ltd., 2018), 11 
 
 In detail, the design includes:
 
