@@ -3,7 +3,10 @@
 <a name="getting-started"></a>
 # [2.] Getting Started
 
-XXX
+> #### *"Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this. And if you are just starting out or you are still in this phase, you gotta know its normal and the most important thing you can do is do a lot of work. Put yourself on a deadline so that every week you will finish one story. It is only by going through a volume of work that you will close that gap, and your work will be as good as your ambitions. And I took longer to figure out how to do this than anyone I’ve ever met. It’s gonna take awhile. It’s normal to take awhile. You’ve just gotta fight your way through."* [^1]
+> *Ira Glass*
+
+[^1]: Watch [this video](https://vimeo.com/85040589) for an extended version of Ira Glass' famous quote on creativity.
 
 <a name="toc"></a>
 ## Table of Contents
@@ -32,9 +35,9 @@ What follows is a first *overview* of the different departments a game studio mi
 <a name="design"></a>
 ### 1.1 Design
 
-A lot of the work the design department does happens early on, during the [`Concept Phase`](2_ConceptPhase.md/#concept-phase) and [`Pre-Production`](3_PreProduction.md/#pre-production), which is where the main design of the game is specified. However, where other members of the development team will often come and go, the designer(s) are usually a more persistent presence, monitoring the whole production to keep everything in line with the game's vision.[^1]
+A lot of the work the design department does happens early on, during the [`Concept Phase`](2_ConceptPhase.md/#concept-phase) and [`Pre-Production`](3_PreProduction.md/#pre-production), which is where the main design of the game is specified. However, where other members of the development team will often come and go, the designer(s) are usually a more persistent presence, monitoring the whole production to keep everything in line with the game's vision.[^2]
 
-[^1]: Kramarzewski, Adam, and Ennio De Nucciy, *Practical Game Design* (Birmingham: Packt Publishing Ltd., 2018), 11
+[^2]: Kramarzewski, Adam, and Ennio De Nucciy, *Practical Game Design* (Birmingham: Packt Publishing Ltd., 2018), 11
 
 In detail, the design includes:
 
@@ -42,9 +45,9 @@ In detail, the design includes:
 - Story Design
 - Level Design
 
-As a solo developer, you save the work of having to communicate your design to the various other departments, and you'll have ultimate creative freedom. However, the danger is that this can lead to lazyness in the design process and an "I'll think about it when i get there"-attitude, which can easily kill your project, even after you've put a lot of work into it.[^2]
+As a solo developer, you save the work of having to communicate your design to the various other departments, and you'll have ultimate creative freedom. However, the danger is that this can lead to lazyness in the design process and an "I'll think about it when i get there"-attitude, which can easily kill your project, even after you've put a lot of work into it.[^3]
 
-[^2]: Example from Video.
+[^3]: Example from Video.
 
 <a name="engineering"></a>
 ### 1.2 Engineering
@@ -80,11 +83,6 @@ When working solo, even seemingly simple games can fall into production-hell if 
 ## 2. What to Learn (First)
 
 So, there you go - it's a lot. And a common question to ask yourself at this point is, what should I learn *first*? I could rank the different aspects of game development described above in order of importance, but honestly, they're all equally important.
-
-> #### *"Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this. And if you are just starting out or you are still in this phase, you gotta know its normal and the most important thing you can do is do a lot of work. Put yourself on a deadline so that every week you will finish one story. It is only by going through a volume of work that you will close that gap, and your work will be as good as your ambitions. And I took longer to figure out how to do this than anyone I’ve ever met. It’s gonna take awhile. It’s normal to take awhile. You’ve just gotta fight your way through."* [^3]
-> *Ira Glass*
-
-[^3]: Watch [this video](https://vimeo.com/85040589) for an extended version of Ira Glass' famous quote on creativity.
 
 [[Back to Top]](#getting-started)
 
