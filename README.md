@@ -66,22 +66,22 @@ XXX
 This is the main part of the guide. What follows are short descriptions of the different phases of game development, with the titles linking to the detailed articles.
 
 <a name="concept-phase"></a>
-### 3.1 [Concept Phase](Phases/3_1_ConceptPhase.md/#concept-phase)
+### 3.1 [Concept Phase](Articles/3_1_ConceptPhase.md/#concept-phase)
 
 In the Concept Phase, you will funnel your many ideas into a single, clearly defined Game Concept and critically evaluate it. If you are satisfied, you will make the commitment to move into Pre-Production.
 
 <a name="pre-production"></a>
-### 3.2 [Pre-Production](Phases/3_2_PreProduction.md/#pre-production)
+### 3.2 [Pre-Production](Articles/3_2_PreProduction.md/#pre-production)
 
 During Pre-Production, you are going to hash out the most important design decisions. This is done through an iterative process of design and prototyping. You will also consider the resources that will be needed and draw up a plan for the realisation of your game - including an initial timeline - so that you can move on to Production.
 
 <a name="production"></a>
-### 3.3 [Production](Phases/3_3_Production.md/#production)
+### 3.3 [Production](Articles/3_3_Production.md/#production)
 
 In Production, you will implement the specified design. This too is an interative process consisting of different stages, during which the design may need to be updated. The implementation is accompanied by consistent content preparation for public presentation of the game - with an increased commitment towards the release, which will mark the end of this phase.
 
 <a name="post-release"></a>
-### 3.4 [Post-Release](Phases/3_4_PostRelease.md/#post-release)
+### 3.4 [Post-Release](Articles/3_4_PostRelease.md/#post-release)
 
 The Post-Release period is about updating and improving the game, engaging with the community, as well as potentially developing additional content.
 
