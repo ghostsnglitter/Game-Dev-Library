@@ -98,7 +98,7 @@ When not coming from a programming background, this part of solo game developmen
 <a name="art"></a>
 ### 2.3 Art
 
-The art department create all of the game's assets - 2D-art and UI-elements, 3D-models for objects, architecture, characters, as well as sound effects and music. This can take a lot of time and the work is usually distributed to many different artists, underlining the importance of starting into [`Production`](#production) with solid design documentation.
+The art department creates all of the game's assets - 2D-art and UI-elements, 3D-models for objects, architecture, and characters, as well as sound effects and music. This can take a lot of time and the work is usually distributed to many different artists, underlining the importance of starting into [`Production`](#production) with solid design documentation and a coherent vision.
 
 Depending on your background, this can be a massive challenge for creating your first game(s). Fortunately, there are plenty of helpful resources and strategies (covered in this guide) for reducing the workload, including the usage of third-party assets (an unbelievably important part of solo development that should not be looked down upon).
 
@@ -107,14 +107,14 @@ Depending on your background, this can be a massive challenge for creating your 
 
 If a game has a story, it usually has dedicated writers. Some studios turn all developers into writers for lots of individual storylines, others comission remote-working freelance writers. Usually, for small to mid-sized teams, there are only a few or just one writer (often the lead designer or narrative designer).[^1] Either way, the details of the story and the actual used texts come after the overall concept and narrative design has been specified in [`Pre-Production`](#pre-production).
 
-Many solo developers gladly take on the writer role, as their games are often centered around a strong narrative ideas. However, it is important to consider what you're getting into when writing complex storylines.
+Many solo developers gladly take on the writer role, as their games are often centered around strong narrative ideas. However, it is important to consider what you're getting into before writing complex storylines (dialogue systems can be quite difficult to set up as well).
 
 <a name="management"></a>
 ### 2.5 Management
 
-Last but not least, the management department covers everything regarding the project's work infrastructure, time schedule, and resources. Even though creating a feasable production plan with milestones and a realistic timeline is extremely difficult, it is very important - especially when working with a publisher.
+Last but not least, the management department covers everything regarding the project's work infrastructure, time schedule, and resources. Even though creating a feasable production plan with milestones and a realistic timeline is difficult, it is very important - especially when working with a publisher.
 
-Even seemingly simple games can fall into production-hell if you are working solo and not yet familiar with the process. A decent amount of preperation and project management can combat this and should be a part of any game development effort, even if nobody but you is watching.
+Even seemingly simple games can fall into production-hell if you are working solo and are not yet familiar with the process. A decent amount of preperation and project management can combat this and should be a part of any game development effort, even if nobody but you is watching.
 
 [[Back to Top]](#complete-guide-for-solo-game-development)
 
