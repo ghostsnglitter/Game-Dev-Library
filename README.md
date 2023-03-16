@@ -49,8 +49,8 @@ Minimize
 ### 1.2 Important Notes
 
 Before we go any further, a few important notes up front:
-- This guide covers game development in *Unity* (although this only really becomes important during production).
-- The guide is quite comprehensive and split into separate articles. This document contains a general overview, with the titles of different sections linking to the respective articles.
+- This guide is quite comprehensive and split into separate articles. This document contains a general overview, with the titles of different sections linking to the respective articles.
+- The guide covers game development in *Unity* (although this only really becomes important during production).
 - I am writing this guide alongside the development of my first game, `SLINGSHOT`, which I will be using as an example throughout.
 
 [[Back to Top]](#complete-guide-for-solo-game-development)

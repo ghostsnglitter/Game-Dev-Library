@@ -25,7 +25,7 @@ A Game Goncept should be less than one page in length and include the following 
 6. *Target Audience*: A description of the target audience, such as `casual gamers of all ages`.
 7. *Platforms*: The platform(s) for which the game will be created.
 
-[^1]: Taken from the filter options in the Steam store. You can find fitting tags by browsing the available options.
+[^1]: Taken from the filter options in the [Steam store](https://store.steampowered.com/). You can find fitting tags by browsing the available options.
 
 Each of these elements is extremely important, not only for pitching your idea, but also for making good design choices later on. No matter how experimental and artsy your game is, your concept should include all of these elements. However, the exact format varies and should be adapted to what works best for your particular game. As an example, you can find the Game Concept for the `SLINGSHOT` project [here](https://share-docs.clickup.com/9004010474/p/h/8cawjza-1127/a4494a0363b6815).
 
