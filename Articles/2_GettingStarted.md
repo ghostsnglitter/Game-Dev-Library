@@ -7,7 +7,7 @@
 >
 > *- Ira Glass*
 
-[^1]: Watch [this video](https://vimeo.com/85040589) for an extended version of Ira Glass' famous quote on creativity.
+[^1]: Find an extended version of Ira Glass' famous quote on creativity in [this video](https://vimeo.com/85040589).
 
 <a name="toc"></a>
 ## Table of Contents
