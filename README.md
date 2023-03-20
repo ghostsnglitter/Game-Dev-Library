@@ -50,7 +50,7 @@ In order to keep track of each of these objectives, and the specific approaches 
 <a name="important-notes"></a>
 ### 1.2 Important Notes
 
-Before we go any further, a few important notes up front:
+Before we go any further, a few more important notes up front:
 - This guide is quite comprehensive and split into separate articles. This document contains a general overview, with the titles of different sections linking to the respective articles.
 - The guide covers game development in *Unity* (although this only really becomes important during production).
 - I am writing this guide alongside the development of my first game, `SLINGSHOT`, which I will be using as an example throughout.
