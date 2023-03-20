@@ -268,4 +268,6 @@ XXX
 
 [[Back to Top]](#pre-production)
 
-[[Back to Main Page]](../README.md/#production-guide-for-solo-game-development)
+---
+
+[[Back to Main Page]](../README.md/#phases)

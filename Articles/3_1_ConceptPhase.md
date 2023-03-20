@@ -107,4 +107,6 @@ If you were able to answer all of the questions above in a satisfying way, you a
 
 [[Back to Top]](#concept-phase)
 
-[[Back to Main Page]](../README.md/#production-guide-for-solo-game-development)
+---
+
+[[Back to Main Page]](../README.md/#phases)

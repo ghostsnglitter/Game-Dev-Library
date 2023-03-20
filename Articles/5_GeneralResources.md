@@ -17,4 +17,6 @@ XXX
 
 [[Back to Top]](#post-release)
 
-[[Back to Main Page]](../README.md/#production-guide-for-solo-game-development)
+---
+
+[[Back to Main Page]](../README.md/#resources)

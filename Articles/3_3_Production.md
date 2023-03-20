@@ -29,4 +29,6 @@ XXX
 
 [[Back to Top]](#production)
 
-[[Back to Main Page]](../README.md/#production-guide-for-solo-game-development)
+---
+
+[[Back to Main Page]](../README.md/#phases)
