@@ -26,7 +26,7 @@ Since you are about to create important design documents, it makes sense to set 
 
 There are different project management applications that can be used for this, but my personal pick is [`ClickUp`](https://www.clickup.com/):
 
-[![ClickUp](../Images/ClickUp.png "An example look on ClickUp's interface")](https://www.google.com/imgres?imgurl=https%3A%2F%2Fclickup.com%2Fimages%2Fv2%2Fviews%2Ftask%2Fboard-view.png&imgrefurl=https%3A%2F%2Fclickup.com%2Ffeatures&tbnid=vDMXfyarHV-RuM&vet=12ahUKEwjO0bGAntT9AhWcwQIHHWXzB8IQMygDegUIARDPAQ..i&docid=kM8svJibefhcEM&w=1299&h=883&itg=1&q=clickup&ved=2ahUKEwjO0bGAntT9AhWcwQIHHWXzB8IQMygDegUIARDPAQ)
+[![ClickUp](Images/ClickUp.png "An example look on ClickUp's interface")](https://www.google.com/imgres?imgurl=https%3A%2F%2Fclickup.com%2Fimages%2Fv2%2Fviews%2Ftask%2Fboard-view.png&imgrefurl=https%3A%2F%2Fclickup.com%2Ffeatures&tbnid=vDMXfyarHV-RuM&vet=12ahUKEwjO0bGAntT9AhWcwQIHHWXzB8IQMygDegUIARDPAQ..i&docid=kM8svJibefhcEM&w=1299&h=883&itg=1&q=clickup&ved=2ahUKEwjO0bGAntT9AhWcwQIHHWXzB8IQMygDegUIARDPAQ)
 
 It is extremely feature-rich and customizable (even the free version). This might be a bit much for your first project though, so feel free to use alternatives for your own backlog (like [`Nuclino`](https://nuclino.com/) and [`Milanote`](https://milanote.com/)).
 
@@ -47,11 +47,11 @@ Here are some general notes and ideas about creating the Game Design Document:
 - Include diagrams. Especially for game systems, it can be helpful to use diagrams to visualize processes. A nice and simple web tool for this is [`draw.io`](https://app.diagrams.net/).
 - Include reference images. For finding reference images and creating mood boards, [`Pinterest`](https://www.pinterest.de/) is actually a really good option. An amazing solution for quickly generating concept art is [`DALL-E`](https://labs.openai.com):
 
-  ![DALL-E](../Images/DALL-E.png "An example of DALL-E's capabilities in generating concept art")
+  ![DALL-E](Images/DALL-E.png "An example of DALL-E's capabilities in generating concept art")
 
 - It can help to break down the design into four core components:[^1]
 
-  ![GameComponents](../Images/GameComponents.png "A game broken down into four core components")
+  ![GameComponents](Images/GameComponents.png "A game broken down into four core components")
 
   You can see that all of the components relate to each other. For example, the `Mechanics` - the procedures and rules of the game, can only function with the right `Technology` - the technological means through which the player interacts with the game (could be pen & paper in case of a table-top game), are conveyed to the player through an `Aesthetic` - the look, feel, *vibe* of your game, and should be made believable and consistent within the game's `Story` - the sequence of events in your game creating a coherent experience.
 

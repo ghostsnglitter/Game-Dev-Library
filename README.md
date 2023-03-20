@@ -22,14 +22,14 @@ A complete guide that collects ideas, tools and resources for solo game developm
 
 With this guide, I'm trying to provide a flexible tool for getting started with solo game development. It explains in detail what it is necessary to produce and distribute a game from start to finish, helps you create your own workflow, and collects unique and unconventional resources for improving your creative process.
 
-Specifically, this guide covers the different responsibilities you'll have to assume, as well as the different phases of game development, with specific information on the different goals, tools used, organisational strategies and learning materials - always with a focus on *solo* development.
+The guide is devided into separate articles focusing on destinct areas or phases of game development, with specific information on the different goals, tools used, organisational strategies and learning materials - always with a focus on *solo* development.
 
 <a name="purpose"></a>
 ### 1.1 Purpose
 
 If you are an aspiring indie game developer of any skill level, this may serve as a blueprint or valuable reference. If you are a seasoned veteran, this may be little more than an interesting glimpse into my process for [`GHOSTS & GLITTER`](https://www.youtube.com/@ghostsnglitter) - although any input from experts is welcome!
 
-As I'm still trying to develop this process, the guide may be updated regularly. In general, the main goals are always:
+As I'm still trying to develop this process for myself, the guide may be updated regularly. In general, my main objectives are:
 
 ```
 Maximize
@@ -44,6 +44,8 @@ Minimize
 - Risk
 - Boring work with boring decisions
 ```
+
+In order to keep track of each of these objectives, and the specific approaches and ideas derived from them, I have created a table view [here](Resources/Objectives.md) (this can be a good reference for *after* you have read the rest of the guide).
 
 <a name="important-notes"></a>
 ### 1.2 Important Notes

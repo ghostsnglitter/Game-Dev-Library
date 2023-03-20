@@ -26,7 +26,7 @@ A game idea is just that - an idea, like `2D game where you can perform a "sling
 
 A spontaneous, unorganized brainstorming session is always a good way to capture ideas for the first time. You can just write them down without too much thought and, like planting a seed, let them grow into all kinds of directions. Having your ideas written down clears up space in your mind and helps you remember all of the details you thought of. It can also be helpful for playing around with different versions of the same idea. A good web application for brainstorming is [`Kinopio`](https://kinopio.club/):
 
-![Kinopio](../Images/Kinopio.png "An example board on Kinopio")
+![Kinopio](Images/Kinopio.png "An example board on Kinopio")
 
 It serves as a virtual whiteboard and can help you visually organize and connect ideas. I mostly use it for mind-mapping ideas in their earliest stages, while also using [`OneNote`](https://www.onenote.com/?public=1) to quickly write down new ideas on my phone or PC.
 
@@ -75,7 +75,7 @@ Each of these elements is extremely important, not only for pitching your idea, 
 
 If you need more help, you might want to try iterating on some creative and concise prompts to ask [`ChatGPT`](https://chat.openai.com/chat):
 
-![ChatGPT_1](../Images/ChatGPT_1.png "A ChatGPT response for creating a game concept")
+![ChatGPT_1](Images/ChatGPT_1.png "A ChatGPT response for creating a game concept")
 
 > If you have trouble turning a vague game idea into a concrete concept, you should take that as a warning sign - not that the idea is worthless, but that you should not go any further in the development process until you have a Game Concept. Seriously, take your time, let the idea grow in the back of your mind. Instead of dwelling on one idea, you should consider going back to the previous step, [`Finding Ideas`](#finding-ideas), in order to choose a new one.
 

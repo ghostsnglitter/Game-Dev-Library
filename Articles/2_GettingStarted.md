@@ -42,9 +42,7 @@ In detail, the design includes:
 - Story Design
 - Level Design
 
-As a solo developer, you save the work of having to communicate your design to the various other departments, and you'll have ultimate creative freedom. However, the danger is that this can lead to lazyness in the design process and an "I'll think about it when i get there"-attitude, which can easily kill your project, even after you've put a lot of work into it.[^3]
-
-[^3]: Example from Video.
+As a solo developer, you save the work of having to communicate your design to the various other departments, and you'll have ultimate creative freedom. However, the danger is that this can lead to lazyness in the design process and an "I'll think about it when i get there"-attitude, which can easily kill your project, even after you've put a lot of work into it.
 
 <a name="engineering"></a>
 ### 1.2 Engineering
