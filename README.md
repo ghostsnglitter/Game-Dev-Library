@@ -1,4 +1,4 @@
-# Complete Guide For Solo Game Development
+# Complete Guide for Solo Game Development
 
 A complete guide that collects ideas, tools and resources for solo game development.
 
