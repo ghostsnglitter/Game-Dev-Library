@@ -45,7 +45,7 @@ Minimize
 - Boring work with boring decisions
 ```
 
-In order to keep track of each of these objectives, and the specific approaches and ideas derived from them, I have created a table view [here](Resources/Objectives.md) (this can be a good reference for *after* you have read the rest of the guide).
+In order to keep track of each of these objectives, I am using the `Issues` section on GitHub, feel free to add your input there.
 
 <a name="important-notes"></a>
 ### 1.2 Important Notes
