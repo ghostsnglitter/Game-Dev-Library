@@ -27,7 +27,7 @@ Making and selling games requires expertise in a number of different fields. Stu
 
 In short: start small, get an overview of all of the different types of tasks that await you, figure out what you are good at already and where you have gaps of knowledge. You want to get a *basic* level of understanding and competence in all of the important fields so that you don't unexpectedly hit a wall halfway through development. Building and releasing a *very* small and simple game is a good way to action-test your ability to go through the entire process. In the article for the [`Concept Phase`](3_1_ConceptPhase.md) under [`Finding Ideas`](#finding-ideas), I'll provide different ideas and challenges that you can use for your very first game.
 
-What follows is a first *overview* of the different departments a game studio might have: [`Design`](#design), [`Engineering`](#engineering), [`Art`](#art), [`Writing`](#writing), and [`Management`](#management). I will describe the role of each of those departments in the development process, as well as what that means for solo development (I will go into detail later on in the guide).
+What follows is a first *overview* of the different departments a game studio might have: [`Design`](#design), [`Engineering`](#engineering), [`Art`](#art), [`Writing`](#writing), and [`Management`](#management). I will describe the role of each of those departments in the development process, as well as what that means for solo development (more details follow in the rest of the guide).
 
 <a name="design"></a>
 ### 1.1 Design
@@ -49,19 +49,19 @@ As a solo developer, you save the work of having to communicate your design to t
 
 The game developers in the engineering department are responisble for the project's source code. They implement all of the features and mechanics described in the detailed design documentation, as well as all of the art assets.
 
-When not coming from a programming background, this part of solo game development can seem particularly daunting. Personally, I found that learning how to code was a pretty enjoyable experience - due to the logical nature of it, the most basic concepts are pretty easy to understand, and you can build on them, bit-by-bit. That being said, it helps to bring some pre-existing experience or an understanding of those basic concepts with you. When starting out, it feels like a lot, but as soon as you develop this skill, you'll find how much can be achieved with simple (and *reusable*) code.
+When not coming from a programming background, this part of solo game development can seem particularly daunting. Personally, I found that learning how to code was a pretty enjoyable experience - due to the logical nature of it, the most basic concepts are pretty easy to understand, and you just build on them, bit-by-bit (this guide will try to provide good learning material for starting out). That being said, it helps to bring some pre-existing experience or an understanding of those basic concepts with you. At first, it feels like a lot, but as soon as you develop this skill, you'll find how much can be achieved with simple (and *reusable*) code.
 
 <a name="art"></a>
 ### 1.3 Art
 
-The art department creates all of the game's assets - 2D-art and UI-elements, 3D-models for objects, environment, and characters, as well as sound effects and music. This can take a lot of time and the work is usually distributed to many different artists working in parallel throughout the entire development of the game, which only underlines the importance of starting into [`Production`](3_3_Production.md) with a coherent vision and solid design documentation.
+The art department creates all of the game's assets - 2D-art and UI-elements, 3D-models for objects, environment, and characters, as well as sound effects and music. This can take a lot of time and the work is usually distributed to many different artists working in parallel throughout the entire development of the game, which only underlines the importance of starting [`Production`](3_3_Production.md) with a coherent vision and solid design documentation.
 
-Depending on your background, this can be a massive challenge for creating your first game(s) solo. Fortunately, there are plenty of helpful resources and strategies (covered in this guide) for reducing the workload, including the usage of third-party assets (an *unbelievably* important part of solo development that should not be looked down on or immediately disregarded as "asset-flipping").
+Depending on your background, this can be a massive challenge for creating your first game(s) solo. Fortunately, there are plenty of helpful resources and strategies (covered in this guide) for reducing the workload.
 
 <a name="writing"></a>
 ### 1.4 Writing
 
-If a game has a story, it usually has dedicated writers. Some studios turn all of the developers into writers for lots of individual storylines, while others comission remote-working freelance writers. Usually, for small to mid-sized teams, there are only a few or just one writer (often the lead designer or narrative designer). Either way, the details of the story and the actual used texts come *after* the overall concept and narrative design have been specified in [`Pre-Production`](3_2_PreProduction.md).
+If a game has a story, it usually has dedicated writers. Some studios enable all of the developers to become writers to get lots of individual storylines (and increase the investment in the project), while others comission remote-working freelance writers. Usually, for small to mid-sized teams, there are only a few or just one writer (often the lead designer or narrative designer). Either way, the details of the story and the actual used texts come *after* the overall concept and narrative design have been specified in [`Pre-Production`](3_2_PreProduction.md).
 
 Many solo developers gladly take on the role of the writer, as their games are often centered around strong narrative ideas. However, it is important to consider what you're getting into before writing complex storylines (for example, dialogue systems can be quite complicated to implement).
 
@@ -77,8 +77,25 @@ When working solo, even seemingly simple games can fall into production-hell if 
 <a name="learn"></a>
 ## 2. What to Learn (First)
 
-So, there you go - it's a lot. And a common question to ask yourself at this point is, what should I learn *first*? I could rank the different aspects of game development described above in order of importance, but honestly, they're all equally important.
+So, there you go - it's a lot. And a common question to ask yourself at this point is, what should I learn *first*? I could rank the different aspects of game development described above in order of importance, but honestly, they're all equally important. You can find *"Roadmaps"* online that cover all relevant topics that relate to a particular skill, put into a reasonable chronological order. While these can be valuable resources, there is no "correct" order.
+
+Taking all of that into account, I think the most effective way to *actually get you started* on game development and making stuff is to *aggressively* break down the challenges and obstacles you face into the smallest, digestable chunks. The goal is *not to lose momentum*. Here's an example:
+
+1. I want to make a dense and atmospheric first-person 3D-game with vivid characters and deep emotional storytelling.
+   - Something slows the momentum: I have never made a game before and don't know where to start. I have a good idea of the story i want to tell, but don't know a lot about designing game mechanics, or programming, etc.
+   - Rethinking: I should first get familiar with game development operations by making a smaller project so I can learn the skills necessary for realizing my ideas and getting an understanding of the possibilities and limitations.
+2. I want to make a small but fun arcade-like 2D-game playable in the browser.
+   - Something slows the momentum: Even with this small project, I am struggling to implement the mechanics, because I am still new to programming. Specifically, I can't figure out how to draw certain UI elements.
+   - Rethinking: I should isolate the very specific programming challenge I am facing, and create another, *even smaller* project, just for this challenge.
+3. I want to make a small playable test for creating UI elements. While I figure it out, I might find a way to turn this into a tiny minigame that I can release afterwards.
+   - ...
+
+Keep in mind that these individual projects don't have to always result in a playable video game. If you want to improve your game design skills, challenge yourself to create only the design for a game - once it is done, save/publish it as a neat documentation or showcase, and then just *move on to the next thing*.
+
+The idea is to be able to look at *results* as soon as humanly possible. When starting out, it will feel unbelievably rewarding to be able to upload a finished project on Itch.io (or just to *have* a finished build) - no matter how tiny the scope of the project is. It also builds a lot of confidence to be able to look back on your catalog of increasingly ambitious projects.
 
 [[Back to Top]](#getting-started)
 
-[[Back to Main Page]](../README.md/#production-guide-for-solo-game-development)
+---
+
+[[Back to Main Page]](../README.md/#getting-started)
