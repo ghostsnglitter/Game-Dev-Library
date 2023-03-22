@@ -20,7 +20,7 @@ A complete guide that collects ideas, tools and resources for solo game developm
 <a name="introduction"></a>
 ## 1. Introduction
 
-With this guide, I'm trying to provide a flexible tool for getting started with solo game development. It explains in detail what it is necessary to produce and distribute a game from start to finish, helps you create your own workflow, and collects unique and unconventional resources for improving your creative process.
+In this guide, I'm trying to provide a flexible tool for getting started with solo game development. It explains in detail what it is necessary to produce and distribute a game from start to finish, helps you create your own workflow, and collects unique and unconventional resources for improving your creative process.
 
 The guide is devided into separate articles focusing on destinct areas or phases of game development, with specific information on the different goals, tools used, organisational strategies and learning materials - always with a focus on *solo* development.
 
@@ -51,8 +51,6 @@ Minimize
 Before we go any further, a few more important notes up front:
 - This guide is quite comprehensive and split into separate articles. This document contains a general overview, with the titles of different sections linking to the respective articles.
 - The guide covers game development in *Unity* (although this only really becomes important during production).
-- I am writing this guide alongside the development of my first game, `SLINGSHOT`, which I will be using as an example throughout.
-- Go to the `Wiki` section on GitHub to find a progress overview.
 - Go to the [`CONTRIBUTING`](CONTRIBUTING.md) file to find information on how to contribute.
 
 [[Back to Top]](#complete-guide-for-solo-game-development)
@@ -60,7 +58,7 @@ Before we go any further, a few more important notes up front:
 <a name="getting-started"></a>
 ## 2. [Getting Started](Articles/2_GettingStarted.md)
 
-XXX
+Before delving into the details and technicalities, it's important to get some perspective on where you stand, and to understand what it *actually* might look like to start the journey to becoming a solo game developer.
 
 <a name="phases"></a>
 ## 3. Phases of Game Development
