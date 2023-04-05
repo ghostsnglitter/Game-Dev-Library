@@ -14,7 +14,7 @@ In the Concept Phase, you will funnel your many ideas into a single, clearly def
 >    - 1.3 [Challenges](#challenges)
 >    - 1.4 [Game Jams](#game-jams)
 > 2. [Creating a Game Concept](#creating-concept)
-> 3. [Evaluating the Game Concept](#evaluating-concept)
+> 3. [Evaluation](#evaluation)
 
 <a name="finding-ideas"></a>
 ## 1. Finding Ideas
@@ -60,8 +60,9 @@ XXX
 
 It is time to work out a proper Game Concept. This means that you need to choose a single game idea that you want to flesh out. Although the Game Concept will still only be a very short summary, it will lay the groundwork for everything that follows (_spoiler_, what follows is a lot of work), and I've seen indie developers create stunning art and impressive tech demos for projects that they ultimately had to cancel because they didn't have a solid concept.
 
-A Game Goncept should be less than one page in length and include the following elements:
-1. *Game Overview*: A short, compelling summary of the game, written like an elevator pitch.
+A good format for a Game Goncept is a **slide presentation** as itt encourages both brevity in text and use of images or other media. Of course, it also gives you a presentation that you can *actually* use to pitch your game. A Game Concept should include the following elements:
+
+1. *Game Overview*: A short, compelling summary of the game, like an elevator pitch.
 2. *Genre*: The game's genre, like `Action` and `Arcade`.
 3. *Visuals and Viewpoint*:[^1] Descriptive tags for how the game will look like, such as `2D`, `Top-Down`, and `Abstract`.
 4. *Story*/*Narrative* (if applicable): A brief description of the game's narrative, including setting and core themes.
@@ -71,22 +72,22 @@ A Game Goncept should be less than one page in length and include the following 
 
 [^1]: Taken from the filter options in the [Steam store](https://store.steampowered.com/). You can find fitting tags by browsing the available options.
 
-Each of these elements is extremely important, not only for pitching your idea, but also for making good design choices later on. No matter how experimental and artsy your game is, your concept should include all of these elements. However, the exact format varies and should be adapted to what works best for your particular game. As an example, you can find the Game Concept for the `SLINGSHOT` project [here](https://share-docs.clickup.com/9004010474/p/h/8cawjza-1127/a4494a0363b6815).
+Each of these elements is extremely important, not only for pitching your idea, but also for making good design choices later on. No matter how experimental and artsy your game is, your concept should include all of these considerations. However, the exact format varies and should be adapted to what works best for your particular game.
 
-If you need more help, you might want to try iterating on some creative and concise prompts to ask [`ChatGPT`](https://chat.openai.com/chat):
+If you need a place to start, you might want to try iterating on some creative and concise prompts to ask [`ChatGPT`](https://chat.openai.com/chat):
 
 ![ChatGPT_1](Images/ChatGPT_1.png "A ChatGPT response for creating a game concept")
 
-> If you have trouble turning a vague game idea into a concrete concept, you should take that as a warning sign - not that the idea is worthless, but that you should not go any further in the development process until you have a Game Concept. Seriously, take your time, let the idea grow in the back of your mind. Instead of dwelling on one idea, you should consider going back to the previous step, [`Finding Ideas`](#finding-ideas), in order to choose a new one.
+> If you have trouble turning a vague game idea into a concrete concept, you should take that as a warning sign - not that the idea is worthless, but that you should not go any further in the development process until you have a proper Game Concept. Seriously, take your time, let the idea grow in the back of your mind. Instead of dwelling on one idea, you should consider going back to the previous step, [`Finding Ideas`](#finding-ideas), in order to choose a new one.
 
 [[Back to Top]](#concept-phase)
 
-<a name="evaluating-concept"></a>
-## 3. Evaluating the Game Concept
+<a name="evaluation"></a>
+## 3. Evaluation
 
-Now that you have a Game Concept, there is one last evaluation to go through before moving into Pre-Production. Especially for solo game development, this can be an extremely important step, as it may be your last chance to find some critical shortcomings in your concept before wasting a lot of time on it.
+Now that you have a Game Concept, there is one last evaluation to go through before moving into Pre-Production. It comes in the form of several questions to ask yourself about the game and you should find a clear answer to all of them before moving on. Especially for solo game development, this can be a really useful practice, as its a good chance to find some critical shortcomings in your Game Concept before wasting a lot of time on it.
 
-To evaluate the Game Concept, answer all of the following questions (note that some of these questions include specific considerations for `GHOSTS & GLITTER` video content):[^2]
+These are the eight questions (note that some of them include specific considerations for `GHOSTS & GLITTER` video content):[^2]
 
 [^2]: These questions are derived from Warren Spector's GDC talk ["Classic Game Postmortem: Deus Ex"](https://youtu.be/tffX3VljTtI).
 
